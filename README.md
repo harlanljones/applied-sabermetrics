@@ -2,10 +2,16 @@
 
 How numbers and innovative minds revitalized franchises
 
-## Oakland A's
+## Contents
 
-## Boston Red Sox
+### Oakland A's
 
-## San Francisco Giants
+### Boston Red Sox
 
-## Chicago Cubs
+### San Francisco Giants
+
+### Chicago Cubs
+
+## Data
+
+See [data/raw/README.md](data/raw/README.md) for citations

@@ -1,0 +1,453 @@
+Year,Rnd,DT,OvPck,FrRnd,RdPck,Tm,Signed,Bonus,Name,Pos,WAR,G,AB,HR,BA,OPS,G,W,L,ERA,WHIP,SV,Type,Drafted Out of,Name-additional
+2025,1,,6,FrRnd,6,Pirates,Y,$7250000,Seth Hernandez (minors),P,,,,,,,,,,,,,HS,Corona HS (Corona CA),-9999
+2025,1,,25,FrRnd,25,Padres,Y,$3606600,Kruz Schoolcraft (minors),P,,,,,,,,,,,,,HS,Sunset HS (Portland OR),-9999
+2024,1,,24,FrRnd,24,Braves,Y,$3553800,Cam Caminiti (minors),P,,,,,,,,,,,,,HS,Saguaro HS (Scottsdale AZ),-9999
+2024,1,,25,FrRnd,25,Padres,Y,$3442100,Kash Mayfield (minors),P,,,,,,,,,,,,,HS,Elk City HS (Elk City OK),-9999
+2024,1,,36,FrRnd,36,Guardians,Y,$2569200,Braylon Doughty (minors),P,,,,,,,,,,,,,HS,Chaparral HS (Temecula CA),-9999
+2024,1,,37,FrRnd,37,Pirates,Y,$2508900,Levi Sterling (minors),P,,,,,,,,,,,,,HS,Notre Dame HS (Sherman Oaks CA),-9999
+2023,1,,10,FrRnd,10,Marlins,Y,$4500000,Noble Meyer (minors),P,,,,,,,,,,,,,HS,Jesuit HS (Beaverton OR),-9999
+2023,1,,33,FrRnd,34,Brewers,Y,$2000000,Josh Knoth (minors),P,,,,,,,,,,,,,HS,Patchogue-Medford HS (Medford NY),-9999
+2023,1,,34,FrRnd,35,Twins,Y,$2481400,Charlee Soto (minors),P,,,,,,,,,,,,,HS,Reborn Christian Academy (Kissimmee FL),-9999
+2023,1,,35,FrRnd,36,Marlins,Y,$4100000,Thomas White (minors),P,,,,,,,,,,,,,HS,Phillips Academy Andover (Andover MA),-9999
+2022,1,,15,FrRnd,15,Padres,Y,$3900000,Dylan Lesko (minors),P,,,,,,,,,,,,,HS,Buford HS (Buford GA),-9999
+2022,1,,20,FrRnd,20,Braves,Y,$2556900,Owen Murphy (minors),P,,,,,,,,,,,,,HS,Riverside-Brookfield HS (Riverside IL),-9999
+2022,1,,23,FrRnd,23,Blue Jays,Y,$3597500,Brandon Barriera (minors),P,,,,,,,,,,,,,HS,American Heritage HS (Plantation FL),-9999
+2022,1,,26,FrRnd,26,White Sox,Y,$2800000,Noah Schultz (minors),P,,,,,,,,,,,,,HS,Oswego East HS (Oswego IL),-9999
+2022,1,,35,FrRnd,35,Braves,Y,$2397500,JR Ritchie (minors),P,,,,,,,,,,,,,HS,Bainbridge HS (Bainbridge Island WA),-9999
+2022,1,,39,FrRnd,39,Padres,Y,$3000000,Robby Snelling (minors),P,,,,,,,,,,,,,HS,Robert McQueen HS (Reno NV),-9999
+2021,1,,3,FrRnd,3,Tigers,Y,$6900000,Jackson Jobe (minors),P,0.6,0,0,0,,,12,4,1,3.91,1.42,0,HS,Heritage Hall School (Oklahoma City OK),jobeja01
+2021,1,,7,FrRnd,7,Royals,Y,$3547500,Frank Mozzicato (minors),P,,,,,,,,,,,,,HS,East Catholic HS (Manchester CT),-9999
+2021,1,,13,FrRnd,13,Phillies,Y,$3900000,Andrew Painter (minors),P,,,,,,,,,,,,,HS,Calvary Christian Academy (Fort Lauderdale FL),-9999
+2021,1,,26,FrRnd,26,Twins,Y,$2500000,Chase Petty (minors),P,-0.8,0,0,,,,3,0,3,19.5,3.67,0,HS,Mainland Regional HS (Linwood NJ),pettych02
+2021,1,,29,FrRnd,29,Dodgers,Y,$2197500,Maddux Bruns (minors),P,,,,,,,,,,,,,HS,UMS-Wright Prep (Mobile AL),-9999
+2020,1,,15,FrRnd,15,Phillies,Y,$4075000,Mick Abel (minors),P,-0.2,0,0,0,,,10,3,4,6.23,1.51,0,HS,Jesuit HS (Beaverton OR),abelmi01
+2020,1,,24,FrRnd,24,Rays,Y,$3000000,Nick Bitsko (minors),P,,,,,,,,,,,,,HS,Central Bucks HS East (Doylestown PA),-9999
+2020,1,,34,FrRnd,34,Padres,Y,$2000000,Justin Lange (minors),P,,,,,,,,,,,,,HS,Llano HS (Llano TX),-9999
+2019,1,,18,FrRnd,18,Pirates,Y,$3400000,Quinn Priester (minors),P,2.0,0,0,0,,,50,19,12,4.45,1.36,0,HS,Cary-Grove HS (Cary IL),priesqu01
+2019,1,,24,FrRnd,24,Indians,Y,$2500000,Daniel Espino (minors),P,,,,,,,,,,,,,HS,Georgia Premier Academy (Statesboro GA),-9999
+2019,1,,26,FrRnd,26,Diamondbacks,Y,$2450000,Blake Walston (minors),P,-0.1,0,0,0,,,7,1,0,4.42,1.42,0,HS,New Hanover HS (Wilmington NC),walstbl01
+2019,1,,33,FrRnd,33,Diamondbacks,Y,$2202200,Brennan Malone (minors),P,,,,,,,,,,,,,HS,IMG Academy (Bradenton FL),-9999
+2019,1,,36,FrRnd,36,Rays,Y,$2042900,JJ Goss (minors),P,,,,,,,,,,,,,HS,Cypress Ranch HS (Cypress TX),-9999
+2018,1,,7,FrRnd,7,Padres,Y,$5226500,Ryan Weathers (minors),LHP,1.5,30,27,1,.148,.438,70,12,23,4.93,1.38,1,HS,Loretto HS (Loretto TN),weathry01
+2018,1,,8,FrRnd,8,Braves,N,,Carter Stewart (minors),RHP,,,,,,,,,,,,,HS,Eau Gallie HS (Melbourne FL),-9999
+2018,1,,11,FrRnd,11,Orioles,Y,$4300000,Grayson Rodriguez (minors),RHP,2.3,0,0,0,,,43,20,8,4.11,1.29,0,HS,Central Heights HS (Nacogdoches TX),rodrigr01
+2018,1,,15,FrRnd,15,Rangers,Y,$3150000,Cole Winn (minors),RHP,0.6,0,0,0,,,46,0,2,3.36,1.05,0,HS,Orange Lutheran HS (Orange CA),winnco01
+2018,1,,16,FrRnd,16,Rays,Y,$3497500,Matthew Liberatore (minors),LHP,0.4,1,0,0,,,120,16,24,4.63,1.37,0,HS,Mountain Ridge HS (Glendale AZ),liberma01
+2018,1,,27,FrRnd,27,Nationals,Y,$3000000,Mason Denaburg (minors),RHP,,,,,,,,,,,,,HS,Merritt Island HS (Merritt Island FL),-9999
+2018,1,,30,FrRnd,30,Dodgers,N,,J.T. Ginn (minors),RHP,1.0,0,0,0,,,31,5,8,4.85,1.35,0,HS,Brandon HS (Brandon MS),ginnjt01
+2018,1,,35,FrRnd,35,Indians,Y,$2246022,Ethan Hankins (minors),RHP,,,,,,,,,,,,,HS,Forsyth Central HS (Gainesville GA),-9999
+2018,1,,36,FrRnd,36,Pirates,N,,Gunnar Hoglund (minors),RHP,-0.2,0,0,,,,6,1,3,6.4,1.52,0,HS,Fivay HS (Hudson FL),hoglugu01
+2018,1,,41,FrRnd,41,Indians,Y,$1350000,Lenny Torres (minors),RHP,,,,,,,,,,,,,HS,Beacon HS (Beacon NY),-9999
+2017,1,,2,FrRnd,2,Reds,Y,$7230000,Hunter Greene (minors),RHP,13.5,0,0,0,,,91,25,29,3.65,1.14,0,HS,Notre Dame HS (Sherman Oaks CA),greenhu01
+2017,1,,3,FrRnd,3,Padres,Y,$6700000,MacKenzie Gore (minors),LHP,6.0,0,0,0,,,105,26,41,4.19,1.40,0,HS,Whiteville HS (Whiteville NC),gorema01
+2017,1,,12,FrRnd,12,Pirates,Y,$4100000,Shane Baz (minors),RHP,3.1,0,0,0,,,54,17,17,4.25,1.23,0,HS,Concordia Lutheran HS (Tomball TX),bazsh01
+2017,1,,13,FrRnd,13,Marlins,Y,$3400000,Trevor Rogers (minors),LHP,9.4,26,45,0,.067,.154,102,24,37,3.83,1.30,0,HS,Carlsbad HS (Carlsbad NM),rogertr01
+2017,1,,21,FrRnd,21,Orioles,Y,$3000000,DL Hall (minors),LHP,0.5,1,0,0,,,62,6,3,4.32,1.36,1,HS,Valdosta HS (Valdosta GA),halldl01
+2016,1,,3,FrRnd,3,Braves,Y,$4000000,Ian Anderson (minors),RHP,3.1,22,37,0,.054,.160,59,22,14,4.22,1.37,0,HS,Shenendehowa HS (Clifton Park NY),anderia01
+2016,1,,4,FrRnd,4,Rockies,Y,$4800000,Riley Pint (minors),RHP,-0.4,0,0,0,,,5,0,0,22.09,3.82,0,HS,St. Thomas Aquinas HS (Overland Park KS),pintri01
+2016,1,,7,FrRnd,7,Marlins,Y,$4069200,Braxton Garrett (minors),LHP,5.8,8,11,0,.182,.364,65,16,19,4.03,1.26,0,HS,Florence HS (Florence AL),garrebr01
+2016,1,,9,FrRnd,9,Tigers,Y,$3963045,Matt Manning (minors),RHP,1.8,1,1,0,.000,.000,50,11,15,4.43,1.29,0,HS,Sheldon HS (Sacramento CA),mannima02
+2016,1,,12,FrRnd,12,Red Sox,Y,$3650000,Jay Groome (minors),LHP,,,,,,,,,,,,,HS,Barnegat HS (Barnegat NJ),-9999
+2016,1,,17,FrRnd,17,Astros,Y,$3148000,Forrest Whitley (minors),RHP,-0.8,0,0,0,,,13,0,0,10.57,2.28,0,HS,Alamo Heights HS (San Antonio TX),whitlfo01
+2016,1,,30,FrRnd,30,Rangers,Y,$2003400,Cole Ragans (minors),LHP,7.4,1,0,0,,,83,21,20,3.66,1.19,0,HS,North Florida Christian HS (Tallahassee FL),raganco01
+2016,1,,40,FrRnd,40,Braves,Y,$3050000,Joey Wentz (minors),LHP,-1.7,0,0,0,,,117,11,24,5.57,1.53,1,HS,Shawnee Mission East HS (Prairie Village KS),wentzjo01
+2016,1,,41,FrRnd,41,Pirates,N,,Nick Lodolo (minors),LHP,8.6,0,0,0,,,76,24,22,4.06,1.21,0,HS,Damien HS (La Verne CA),lodolni01
+2015,1,,14,FrRnd,14,Braves,Y,$3042400,Kolby Allard (minors),LHP,-0.1,5,5,0,.200,.400,109,13,26,5.34,1.40,1,HS,San Clemente HS (San Clemente CA),allarko01
+2015,1,,17,FrRnd,17,Indians,Y,$2513280,Brady Aiken (minors),LHP,,,,,,,,,,,,,HS,IMG Academy (Bradenton FL),-9999
+2015,1,,21,FrRnd,21,Royals,Y,$2190200,Ashe Russell (minors),RHP,,,,,,,,,,,,,HS,Cathedral HS (Indianapolis IN),-9999
+2015,1,,22,FrRnd,22,Tigers,Y,$2154200,Beau Burrows (minors),RHP,-0.7,2,0,0,,,11,0,1,10.7,1.98,0,HS,Weatherford HS (Weatherford TX),burrobe01
+2015,1,,27,FrRnd,27,Rockies,Y,$2300000,Mike Nikorak (minors),RHP,,,,,,,,,,,,,HS,Stroudsburg HS (Stroudsburg PA),-9999
+2015,1,,28,FrRnd,28,Braves,Y,$1974700,Michael Soroka (minors),RHP,6.8,31,60,0,.083,.224,91,20,26,3.85,1.22,0,HS,Bishop Carroll HS (Calgary AB),sorokmi01
+2015,1,,33,FrRnd,33,Royals,Y,$1825200,Nolan Watson (minors),RHP,,,,,,,,,,,,,HS,Lawrence North HS (Indianapolis IN),-9999
+2015,1,,39,FrRnd,39,Cardinals,Y,$1800000,Jake Woodford (minors),RHP,-1.5,25,18,0,.111,.222,111,10,17,5.1,1.44,3,HS,H. B. Plant HS (Tampa FL),woodfja01
+2015,1,,42,FrRnd,42,Indians,Y,$2302500,Triston McKenzie (minors),RHP,4.9,1,2,0,.500,1.000,88,21,29,4.07,1.16,0,HS,Royal Palm Beach Community HS (Royal Palm Beach FL),mckentr01
+2014,1,,1,FrRnd,1,Astros,N,,Brady Aiken (minors),LHP,,,,,,,,,,,,,HS,Cathedral Catholic HS (San Diego CA),-9999
+2014,1,,2,FrRnd,2,Marlins,Y,$6000000,Tyler Kolek (minors),RHP,,,,,,,,,,,,,HS,Shepherd HS (Shepherd TX),-9999
+2014,1,,12,FrRnd,12,Brewers,Y,$2500000,Kodi Medeiros (minors),LHP,,,,,,,,,,,,,HS,Waiakea HS (Waiakea HI),-9999
+2014,1,,16,FrRnd,16,Diamondbacks,Y,$2700000,Touki Toussaint (minors),RHP,-0.2,41,34,0,.029,.113,89,15,16,5.42,1.54,0,HS,Coral Springs Christian Academy (Coral Springs FL),toussto01
+2014,1,,22,FrRnd,22,Dodgers,Y,$2500000,Grant Holmes (minors),RHP,2.5,0,0,0,,,48,6,10,3.83,1.28,0,HS,Conway HS (Conway SC),holmegr01
+2014,1,,28,FrRnd,28,Royals,Y,$1925000,Foster Griffin (minors),LHP,-0.1,0,0,0,,,7,1,0,6.75,1.50,0,HS,The First Academy (Orlando FL),grifffo01
+2014,1,,30,FrRnd,30,Rangers,Y,$1750000,Luis Ortiz (minors),RHP,0.0,0,0,0,,,24,0,2,4.76,1.71,1,HS,Sanger HS (Sanger CA),ortizlu02
+2014,1,,31,FrRnd,31,Indians,Y,$1600000,Justus Sheffield (minors),LHP,-0.9,3,4,0,.250,.500,48,12,12,5.47,1.63,0,HS,Tullahoma HS (Tullahoma TN),sheffju01
+2014,1,,33,FrRnd,33,Red Sox,Y,$1500000,Michael Kopech (minors),RHP,6.0,5,1,0,.000,.000,184,21,33,4.14,1.33,15,HS,Mount Pleasant HS (Mount Pleasant TX),kopecmi01
+2014,1,,34,FrRnd,34,Cardinals,Y,$2000000,Jack Flaherty (minors),RHP,14.2,84,123,1,.154,.412,190,63,56,3.8,1.20,0,HS,Harvard-Westlake HS (Los Angeles CA),flaheja01
+2013,1,,4,FrRnd,4,Twins,Y,$4544400,Kohl Stewart (minors),RHP,0.2,4,3,0,.333,.667,21,5,4,4.88,1.48,0,HS,St. Pius X HS (Houston TX),stewako01
+2013,1,,7,FrRnd,7,Red Sox,Y,$2750000,Trey Ball (minors),LHP,,,,,,,,,,,,,HS,New Castle Chrysler HS (New Castle IN),-9999
+2013,1,,10,FrRnd,10,Blue Jays,N,,Phil Bickford (minors),RHP,0.3,58,3,0,.333,.667,187,11,8,4.62,1.24,2,HS,Oaks Christian HS (Westlake CA),bickfph01
+2013,1,,22,FrRnd,22,Orioles,Y,$1947600,Hunter Harvey (minors),RHP,4.0,2,0,0,,,182,10,11,3.11,1.10,11,HS,Bandys HS (Catawba NC),harvehu01
+2013,1,,28,FrRnd,28,Cardinals via Brewers,Y,$1785300,*Rob Kaminsky (minors),LHP,-0.1,0,0,0,,,5,0,0,1.93,1.07,0,HS,St. Joseph Regional HS (Montvale NJ),kaminro01
+2013,1,,33,FrRnd,33,Yankees via Nationals,Y,$1650100,*Ian Clarkin (minors),LHP,,,,,,,,,,,,,HS,Madison HS (San Diego CA),-9999
+2013,1,,35,FrRnd,35,Marlins,N,,Matt Krook (minors),LHP,-0.5,0,0,0,,,8,0,0,16.2,2.64,0,HS,St. Ignatius College Preparatory (San Francisco CA),krookma01
+2012,1,,7,FrRnd,7,Padres,Y,$3000000,Max Fried (minors),LHP,28.4,93,126,0,.214,.542,200,92,41,3.03,1.15,0,HS,Harvard-Westlake HS (Los Angeles CA),friedma01
+2012,1,,14,FrRnd,14,Reds,Y,$2000000,Nick Travieso (minors),RHP,,,,,,,,,,,,,HS,Archbishop McCarthy HS (Southwest Ranches FL),-9999
+2012,1,,16,FrRnd,16,Nationals,Y,$2925000,Lucas Giolito (minors),RHP,14.4,13,18,0,.167,.333,206,71,66,4.3,1.26,0,HS,Harvard-Westlake HS (Los Angeles CA),giolilu01
+2012,1,,21,FrRnd,21,Braves,Y,$1650000,Lucas Sims (minors),RHP,2.3,93,27,0,.074,.148,263,23,19,4.86,1.33,12,HS,Brookwood HS (Snellville GA),simslu01
+2012,1,,30,FrRnd,30,Yankees,Y,$1200000,Ty Hensley (minors),RHP,,,,,,,,,,,,,HS,Edmond Santa Fe HS (Edmond OK),-9999
+2012,1s,,32,FrRnd,32,Twins,Y,$1550000,*José Berríos (minors),RHP,16.9,11,17,0,.118,.284,275,108,82,4.08,1.24,0,HS,Papa Juan HS (Bayamon Puerto Rico),berrijo01
+2012,1s,,33,FrRnd,33,Padres,Y,$1200000,*Zach Eflin (minors),RHP,12.6,93,167,1,.126,.298,200,68,67,4.28,1.24,1,HS,Paul J. Hagerty HS (Oviedo FL),eflinza01
+2012,1s,,40,FrRnd,40,Phillies,Y,$1291300,*Shane Watson (minors),RHP,,,,,,,,,,,,,HS,Lakewood HS (Lakewood CA),-9999
+2012,1s,,41,FrRnd,41,Astros,Y,$2500000,*Lance McCullers Jr. (minors),RHP,10.0,7,14,0,.071,.143,146,51,37,3.7,1.29,0,HS,Jesuit HS (Tampa FL),mcculla02
+2012,1s,,50,FrRnd,50,Blue Jays,Y,$2000000,*Matt Smoral (minors),LHP,,,,,,,,,,,,,HS,Solon HS (Solon OH),-9999
+2012,1s,,53,FrRnd,53,Rangers,Y,$975000,*Collin Wiles (minors),RHP,0.0,0,0,0,,,4,0,0,4.66,1.34,0,HS,Blue Valley West HS (Stilwell KS),wilesco01
+2012,1s,,54,FrRnd,54,Phillies,Y,$940200,*Mitch Gueller (minors),RHP,,,,,,,,,,,,,HS,W. F. West HS (Chehalis WA),-9999
+2012,1,,55,FrRnd,55,Padres,Y,$2000000,*Walker Weickel (minors),RHP,,,,,,,,,,,,,HS,Olympia HS (Orlando FL),-9999
+2012,1s,,56,FrRnd,56,Cubs,Y,$911700,*Paul Blackburn (minors),RHP,2.5,2,5,0,.000,.000,101,22,31,4.97,1.41,1,HS,Heritage HS (Brentwood CA),blackpa01
+2012,1s,,60,FrRnd,60,Blue Jays,Y,$750000,*Tyler Gonzales (minors),RHP,,,,,,,,,,,,,HS,James Madison HS (San Antonio TX),-9999
+2011,1,,4,FrRnd,4,Orioles,Y,$4000000,Dylan Bundy (minors),RHP,7.5,8,14,0,.143,.286,190,54,65,4.74,1.30,0,HS,Owasso HS (Owasso OK),bundydy01
+2011,1s,,7,FrRnd,7,Diamondbacks,Y,$5000000,*Archie Bradley (minors),RHP,5.6,274,63,0,.095,.189,333,30,29,4.03,1.38,32,HS,Broken Arrow HS (Broken Arrow OK),bradlar01
+2011,1,,14,FrRnd,14,Marlins,Y,$2000000,José Fernández (minors),RHP,14.2,71,136,2,.213,.519,76,38,17,2.58,1.05,0,HS,Braulio Alonso HS (Tampa FL),fernajo02
+2011,1,,21,FrRnd,21,Blue Jays,N,,Tyler Beede (minors),RHP,-1.2,28,40,0,.100,.263,71,8,16,5.55,1.58,0,HS,Lawrence Academy (Groton MA),beedety01
+2011,1,,24,FrRnd,24,Rays via Red Sox,Y,$1600000,*Taylor Guerrieri (minors),RHP,0.2,2,0,0,,,29,0,0,5.5,1.69,0,HS,Spring Valley HS (Columbia SC),guerrta02
+2011,1,,25,FrRnd,25,Padres,Y,$2750000,Joe Ross (minors),RHP,5.5,110,157,0,.185,.434,160,31,35,4.28,1.35,0,HS,Bishop O'Dowd HS (Oakland CA),rossjo01
+2011,1,,27,FrRnd,27,Reds,Y,$2000000,Robert Stephenson (minors),RHP,1.1,137,36,0,.028,.082,283,19,20,4.59,1.33,3,HS,Alhambra HS (Martinez CA),stephro01
+2011,1,,33,FrRnd,33,Rangers via Phillies,Y,$936000,*Kevin Matthews (minors),LHP,,,,,,,,,,,,,HS,Richmond Hill HS (Richmond Hill GA),-9999
+2011,1s,,36,FrRnd,36,Red Sox,Y,$1550000,*Henry Owens (minors),LHP,0.1,1,2,0,.000,.000,16,4,6,5.19,1.52,0,HS,Edison HS (Huntington Beach CA),owenshe02
+2011,1s,,44,FrRnd,44,Mets,Y,$937500,*Michael Fulmer (minors),RHP,12.5,14,14,0,.000,.000,265,37,50,3.95,1.26,19,HS,Deer Creek HS (Edmond OK),fulmemi01
+2011,1s,,46,FrRnd,46,Blue Jays,Y,$500000,*Joe Musgrove (minors),RHP,14.9,104,138,0,.145,.358,206,66,62,3.73,1.17,2,HS,Grossmont HS (La Mesa CA),musgrjo01
+2011,1s,,48,FrRnd,48,Padres,Y,$718000,*Michael Kelly (minors),RHP,1.7,1,0,0,,,88,8,6,3.04,1.24,2,HS,West Boca Raton Community HS (Boca Raton FL),kellymi03
+2011,1s,,49,FrRnd,49,Giants,Y,$900000,*Kyle Crick (minors),RHP,1.6,162,0,0,,,194,9,11,3.56,1.32,2,HS,Sherman HS (Sherman TX),crickky01
+2011,1s,,52,FrRnd,52,Rays,Y,$684000,*Blake Snell (minors),LHP,25.1,31,42,0,.095,.269,222,81,62,3.15,1.22,0,HS,Shorewood HS (Shoreline WA),snellbl01
+2011,1s,,55,FrRnd,55,Twins,Y,$1000000,*Hudson Boyd (minors),RHP,,,,,,,,,,,,,HS,Bishop Verot HS (Fort Myers FL),-9999
+2011,1s,,57,FrRnd,57,Blue Jays,Y,$1650000,*Kevin Comer (minors),RHP,,,,,,,,,,,,,HS,Seneca HS (Tabernacle NJ),-9999
+2010,1,,2,FrRnd,2,Pirates,Y,$6500000,Jameson Taillon (minors),RHP,14.8,78,136,0,.110,.241,224,82,60,3.87,1.19,1,HS,The Woodlands HS (The Woodlands TX),taillja01
+2010,1,,9,FrRnd,9,Padres,N,,Karsten Whitson (minors),RHP,,,,,,,,,,,,,HS,Chipley HS (Chipley FL),-9999
+2010,1,,14,FrRnd,14,Brewers,N,,Dylan Covey (minors),RHP,-2.6,4,4,0,.000,.000,100,7,32,6.18,1.58,0,HS,Maranatha HS (Pasadena CA),coveydy01
+2010,1,,18,FrRnd,18,Angels via Mariners,Y,$2300000,*Kaleb Cowart (minors),RHP,-1.3,171,370,6,.176,.530,,,,,,,HS,Cook HS (Adel GA),cowarka01
+2010,1,,19,FrRnd,19,Astros via Tigers,Y,$1305000,*Mike Foltynewicz (minors),RHP,4.4,117,201,0,.070,.158,166,46,54,4.52,1.32,0,HS,Minooka Community HS (Minooka IL),foltymi01
+2010,1,,27,FrRnd,27,Phillies,Y,$1160000,Jesse Biddle (minors),LHP,-0.6,77,2,0,.500,1.500,99,6,2,5.07,1.60,1,HS,Germantown Friends HS (Philadelphia PA),biddlje01
+2010,1,,28,FrRnd,28,Dodgers,Y,$5250000,Zach Lee (minors),RHP,-0.3,4,5,0,.000,.000,4,1,1,8.53,2.21,0,HS,McKinney HS (McKinney TX),leeza01
+2010,1,,29,FrRnd,29,Angels via Red Sox,Y,$1116000,*Cam Bedrosian (minors),RHP,1.7,40,0,0,,,311,17,13,3.81,1.37,9,HS,East Coweta HS (Sharpsburg GA),bedroca01
+2010,1,,32,FrRnd,32,Yankees,Y,$954000,Cito Culver (minors),RHP,,,,,,,,,,,,,HS,Irondequoit HS (Rochester NY),-9999
+2010,1s,,34,FrRnd,34,Blue Jays,Y,$775000,*Aaron Sanchez (minors),RHP,8.1,17,22,0,.000,.043,174,38,38,4.16,1.38,3,HS,Barstow HS (Barstow CA),sanchaa01
+2010,1s,,38,FrRnd,38,Blue Jays,Y,$600000,*Noah Syndergaard (minors),RHP,15.7,113,222,6,.153,.472,164,59,47,3.71,1.20,0,HS,Legacy HS (Mansfield TX),syndeno01
+2010,1s,,43,FrRnd,43,Mariners,Y,$800000,*Taijuan Walker (minors),RHP,12.7,61,112,1,.161,.388,251,77,71,4.18,1.29,1,HS,Yucaipa HS (Yucaipa CA),walketa01
+2010,1s,,45,FrRnd,45,Rangers,Y,$1545000,*Luke Jackson (minors),RHP,1.8,206,3,0,.000,.250,390,24,16,4.22,1.44,28,HS,Calvary Christian Academy (Fort Lauderdale FL),jackslu01
+2010,1s,,47,FrRnd,47,Rockies,Y,$982500,*Pete Tago (minors),RHP,,,,,,,,,,,,,HS,Dana Hills HS (Dana Point CA),-9999
+2010,1s,,50,FrRnd,50,Cardinals,Y,$1300000,*Tyrell Jenkins (minors),RHP,-0.4,14,13,0,.000,.000,14,2,4,5.88,1.69,0,HS,Henderson HS (Henderson TX),jenkity01
+2009,1,,5,FrRnd,5,Orioles,Y,$2422000,Matt Hobgood (minors),RHP,,,,,,,,,,,,,HS,Norco HS (Norco CA),-9999
+2009,1,,6,FrRnd,6,Giants,Y,$3300000,Zack Wheeler (minors),RHP,40.2,152,288,1,.153,.367,283,113,75,3.28,1.14,0,HS,East Paulding HS (Dallas GA),wheelza01
+2009,1,,9,FrRnd,9,Tigers,Y,$4700000,Jacob Turner (minors),RHP,-2.6,73,77,0,.091,.257,102,14,31,5.37,1.54,0,HS,Westminster Christian Academy (Town and Country MO),turneja01
+2009,1,,11,FrRnd,11,Rockies,Y,$3900000,Tyler Matzek (minors),LHP,5.4,93,46,0,.217,.511,175,16,21,3.73,1.39,1,HS,Capistrano Valley HS (Mission Viejo CA),matzety01
+2009,1,,14,FrRnd,14,Rangers,N,,Matt Purke (minors),LHP,-0.1,0,0,0,,,12,0,1,5.5,1.78,0,HS,Klein HS (Klein TX),purkema01
+2009,1,,18,FrRnd,18,Marlins,Y,$1700000,Chad James (minors),LHP,,,,,,,,,,,,,HS,Yukon HS (Yukon OK),-9999
+2009,1,,19,FrRnd,19,Cardinals,Y,$2875000,Shelby Miller (minors),RHP,10.3,144,204,1,.108,.346,302,51,69,4.04,1.31,13,HS,Brownwood HS (Brownwood TX),millesh01
+2009,1s,,40,FrRnd,40,Angels,Y,$1000000,*Tyler Skaggs (minors),LHP,3.6,17,23,0,.087,.212,96,28,38,4.41,1.33,0,HS,Santa Monica HS (Santa Monica CA),skaggty01
+2008,1,,15,FrRnd,15,Dodgers,Y,$1730000,Ethan Martin (minors),RHP,-0.6,17,9,0,.000,.000,17,2,5,5.93,1.64,0,HS,Stephens County School (Toccoa GA),martiet01
+2008,1,,28,FrRnd,28,Yankees,N,,Gerrit Cole (minors),RHP,43.2,128,251,3,.163,.393,317,153,80,3.18,1.09,0,HS,Orange Lutheran HS (Orange CA),colege01
+2008,1s,,32,FrRnd,32,Brewers,Y,$1060000,*Jake Odorizzi (minors),RHP,13.4,16,24,0,.083,.203,241,74,69,3.99,1.25,1,HS,Highland HS (Highland IL),odorija01
+2008,1,,36,FrRnd,36,Royals,Y,$988000,Mike Montgomery (minors),LHP,5.9,117,80,1,.125,.311,183,23,34,3.84,1.35,3,HS,William S. Hart HS (Santa Clarita CA),montgmi01
+2008,1s,,38,FrRnd,38,Astros,Y,$930000,*Jordan Lyles (minors),RHP,-2.4,218,223,2,.112,.314,357,72,107,5.22,1.40,2,HS,Hartsville HS (Hartsville SC),lylesjo01
+2008,1s,,40,FrRnd,40,Braves,Y,$1000000,*Brett DeVall (minors),LHP,,,,,,,,,,,,,HS,Niceville HS (Niceville FL),-9999
+2007,1,,9,FrRnd,9,Diamondbacks,Y,$2100000,Jarrod Parker (minors),RHP,6.5,4,8,0,.125,.375,62,25,16,3.68,1.24,0,HS,Norwell HS (Ossian IN),parkeja02
+2007,1,,10,FrRnd,10,Giants,Y,$2000000,Madison Bumgarner (minors),LHP,37.2,313,633,19,.172,.524,358,134,124,3.47,1.15,0,HS,South Caldwell HS (Hudson NC),bumgama01
+2007,1,,11,FrRnd,11,Mariners,Y,$1900000,Phillippe Aumont (minors),RHP,-0.7,44,1,0,.000,.500,46,1,6,6.8,1.99,2,HS,Ecole Du Versant (Gatineau QC),aumonph01
+2007,1,,17,FrRnd,17,Rangers via Astros,Y,$1497000,*Blake Beavan (minors),RHP,1.7,1,2,0,.000,.000,54,16,20,4.61,1.27,0,HS,Irving HS (Irving TX),beavabl01
+2007,1,,20,FrRnd,20,Dodgers via Red Sox,Y,$1350000,*Chris Withrow (minors),RHP,1.4,84,1,0,.000,.000,92,6,0,3.07,1.14,1,HS,Midland HS (Midland TX),withrch01
+2007,1,,22,FrRnd,22,Giants via Dodgers,Y,$1290000,*Tim Alderson (minors),RHP,,,,,,,,,,,,,HS,Horizon HS (Scottsdale AZ),-9999
+2007,1,,24,FrRnd,24,Rangers via Angels,Y,$1237500,*Michael Main (minors),RHP,,,,,,,,,,,,,HS,DeLand HS (DeLand FL),-9999
+2007,1,,27,FrRnd,27,Tigers,Y,$3580000,Rick Porcello (minors),RHP,18.8,24,45,0,.178,.400,355,150,125,4.4,1.32,0,HS,Seton Hall Preparatory School (West Orange NJ),porceri01
+2007,1s,,31,FrRnd,31,Nationals,Y,$1000000,*Josh Smoker (minors),LHP,-0.7,75,4,0,.000,.000,82,4,2,5.35,1.70,0,HS,Calhoun HS (Calhoun GA),smokejo01
+2007,1s,,44,FrRnd,44,Rangers,Y,$1000000,*Neil Ramírez (minors),RHP,0.3,109,2,0,.000,.000,185,4,8,4.46,1.42,3,HS,Kempsville HS (Virginia Beach VA),ramirne01
+2007,1s,,47,FrRnd,47,Mets,Y,$657000,*Nathan Vineyard (minors),LHP,,,,,,,,,,,,,HS,Woodland HS (Cartersville GA),-9999
+2007,1s,,58,FrRnd,58,Angels,Y,$553300,*Jon Bachanov (minors),RHP,,,,,,,,,,,,,HS,University HS (Orlando FL),-9999
+2007,1s,,60,FrRnd,60,Tigers,Y,$540000,*Brandon Hamilton (minors),RHP,,,,,,,,,,,,,HS,Stanhope Elmore HS (Millbrook AL),-9999
+2006,1,,7,FrRnd,7,Dodgers,Y,$2300000,Clayton Kershaw (minors),LHP,80.9,357,698,1,.162,.390,455,223,96,2.53,1.02,0,HS,Highland Park HS (Dallas TX),kershcl01
+2006,1,,12,FrRnd,12,Rangers,Y,$1600000,Kasey Kiker (minors),LHP,,,,,,,,,,,,,HS,Russell County HS (Seale AL),-9999
+2006,1,,16,FrRnd,16,Brewers,Y,$1550000,Jeremy Jeffress (minors),RHP,8.7,290,3,0,.000,.000,414,32,12,3.08,1.32,52,HS,Halifax County HS (South Boston VA),jeffrje01
+2006,1,,18,FrRnd,18,Phillies via Mets,Y,$1550000,*Kyle Drabek (minors),RHP,-0.1,3,2,0,.000,.000,43,8,15,5.26,1.70,0,HS,The Woodlands HS (The Woodlands TX),drabeky01
+2006,1,,22,FrRnd,22,Nationals via Athletics,Y,$1425000,*Colton Willems (minors),RHP,,,,,,,,,,,,,HS,John Carroll Catholic HS (Fort Pierce FL),-9999
+2006,1s,,38,FrRnd,38,Braves,Y,$900000,*Cory Rasmus (minors),RHP,0.5,10,1,0,.000,.000,84,4,5,4.17,1.33,0,HS,Russell County HS (Seale AL),rasmuco02
+2006,1s,,43,FrRnd,43,Braves,Y,$800000,*Steve Evarts (minors),LHP,,,,,,,,,,,,,HS,T. R. Robinson HS (Tampa FL),-9999
+2006,1s,,44,FrRnd,44,Red Sox,Y,$775000,*Caleb Clay (minors),RHP,,,,,,,,,,,,,HS,Cullman HS (Cullman AL),-9999
+2005,1,,16,FrRnd,16,Marlins,Y,$1600000,Chris Volstad (minors),RHP,2.0,130,201,0,.139,.317,170,37,58,5,1.45,0,HS,Palm Beach Gardens HS (Palm Beach Gardens FL),volstch01
+2005,1,,20,FrRnd,20,Cubs,Y,$1750000,Mark Pawelek (minors),LHP,,,,,,,,,,,,,HS,Springville HS (Springville UT),-9999
+2005,1,,22,FrRnd,22,Marlins via Giants,Y,$1225000,*Aaron Thompson (minors),LHP,-0.1,10,0,0,,,52,1,3,4.94,1.52,0,HS,Second Baptist School (Houston TX),thompaa01
+2005,1s,,32,FrRnd,32,Rockies,Y,$1025000,*Chaz Roe (minors),RHP,1.2,62,1,0,.000,.000,245,11,8,3.89,1.34,3,HS,Lafayette HS (Lexington KY),roech01
+2005,1s,,34,FrRnd,34,Marlins,Y,$975000,*Ryan Tucker (minors),RHP,-1.3,11,7,0,.000,.000,18,2,3,8.14,1.88,0,HS,Temple City HS (Temple City CA),tuckery01
+2005,1s,,37,FrRnd,37,Angels,Y,$925000,*Trevor Bell (minors),RHP,-1.2,8,1,0,.000,.000,54,4,8,5.57,1.76,0,HS,Crescenta Valley HS (La Crescenta CA),belltr01
+2005,1s,,41,FrRnd,41,Braves,Y,$825000,*Beau Jones (minors),LHP,,,,,,,,,,,,,HS,Destrehan HS (Destrehan LA),-9999
+2005,1s,,44,FrRnd,44,Marlins,Y,$775000,*Sean West (minors),LHP,-0.1,21,34,0,.059,.147,22,8,8,5.03,1.58,0,HS,Captain Shreve HS (Shreveport LA),westse01
+2005,1s,,46,FrRnd,46,Cardinals,Y,$675000,*Tyler Herron (minors),RHP,,,,,,,,,,,,,HS,Wellington HS (Wellington FL),-9999
+2005,1s,,47,FrRnd,47,Red Sox,Y,$730000,*Michael Bowden (minors),RHP,0.8,64,2,0,.000,.000,103,3,5,4.51,1.40,0,HS,Waubonsie Valley HS (Aurora IL),bowdemi01
+2004,1,,5,FrRnd,5,Brewers,Y,$2200000,Mark Rogers (minors),RHP,1.1,12,16,0,.250,.625,11,3,1,3.49,1.12,0,HS,Mount Ararat School (Topsham ME),rogerma01
+2004,1,,7,FrRnd,7,Reds,Y,$2300000,Homer Bailey (minors),RHP,6.2,208,373,0,.164,.375,245,81,86,4.56,1.37,0,HS,La Grange HS (La Grange TX),baileho02
+2004,1,,17,FrRnd,17,Dodgers,Y,$1575000,Scott Elbert (minors),LHP,1.5,120,6,0,.167,.500,127,4,3,3.54,1.33,2,HS,Seneca HS (Seneca MO),elbersc01
+2004,1,,23,FrRnd,23,Yankees via Astros,Y,$1400000,*Phil Hughes (minors),RHP,11.0,32,18,0,.000,.000,290,88,79,4.52,1.31,3,HS,Foothill HS (Santa Ana CA),hugheph01
+2004,1,,25,FrRnd,25,Twins via Cubs,Y,$1000000,*Kyle Waldrop (minors),RHP,0.5,0,0,0,,,24,1,1,3.62,1.52,0,HS,Farragut HS (Knoxville TN),waldrky01
+2004,1,,30,FrRnd,30,Rangers via Braves,Y,$1050000,*Eric Hurley (minors),RHP,0.1,1,2,0,.500,1.000,5,1,2,5.47,1.42,0,HS,Wolfson HS (Jacksonville FL),hurleer01
+2004,1s,,38,FrRnd,38,White Sox,Y,$850000,*Gio Gonzalez (minors),lHP,28.3,221,410,3,.090,.247,344,131,101,3.7,1.32,0,HS,Monsignor Edward Pace HS (Miami Gardens FL),gonzagi01
+2004,1s,,39,FrRnd,39,Twins,Y,$875000,*Jay Rainville (minors),RHP,,,,,,,,,,,,,HS,Bishop Hendricken HS (Warwick RI),-9999
+2003,1,,9,FrRnd,9,Rangers,Y,$2100000,John Danks (minors),LHP,20.2,11,24,0,.083,.203,247,79,104,4.38,1.35,0,HS,Round Rock HS (Round Rock TX),danksjo01
+2003,1,,16,FrRnd,16,Marlins,Y,$1850000,Jeff Allison (minors),RHP,,,,,,,,,,,,,HS,Peabody Veterans Memorial HS (Peabody MA),-9999
+2003,1,,24,FrRnd,24,Dodgers,Y,$1375000,Chad Billingsley (minors),RHP,17.3,215,355,3,.138,.369,226,83,64,3.72,1.37,0,HS,Defiance HS (Defiance OH),billich01
+2003,1s,,31,FrRnd,31,Indians,Y,$1025000,*Adam Miller (minors),RHP,,,,,,,,,,,,,HS,McKinney HS (McKinney TX),-9999
+2003,1s,,34,FrRnd,34,Giants,Y,$975000,*Craig Whitaker (minors),RHP,,,,,,,,,,,,,HS,Lufkin HS (Lufkin TX),-9999
+2003,1s,,35,FrRnd,35,Braves,Y,$950000,*Luis Atilano (minors),RHP,-0.9,13,25,0,.040,.080,16,6,7,5.15,1.49,0,HS,Gabriela Mistral HS (San Juan Puerto Rico),atilalu01
+2002,1,,3,FrRnd,3,Reds,Y,$2500000,Chris Gruler (minors),RHP,,,,,,,,,,,,,HS,Liberty HS (Brentwood CA),-9999
+2002,1,,4,FrRnd,4,Orioles,Y,$3200000,Adam Loewen (minors),LHP,-0.3,40,37,1,.189,.583,63,10,8,5.85,1.68,0,HS,Fraser Valley Christian HS (Surrey BC),loewead01
+2002,1,,5,FrRnd,5,Expos,Y,$2500000,Clint Everts (minors),RHP,,,,,,,,,,,,,HS,Cypress Falls HS (Houston TX),-9999
+2002,1,,6,FrRnd,6,Royals,Y,$2475000,Zack Greinke (minors),RHP,77.4,260,521,9,.225,.598,586,225,156,3.49,1.17,1,HS,Apopka HS (Apopka FL),greinza01
+2002,1,,15,FrRnd,15,Mets,Y,$2150000,Scott Kazmir (minors),LHP,22.3,45,72,0,.111,.234,303,108,97,4.02,1.35,0,HS,Cypress Falls HS (Houston TX),kazmisc01
+2002,1,,17,FrRnd,17,Phillies,Y,$2000000,Cole Hamels (minors),LHP,59.0,331,688,2,.169,.401,423,163,122,3.43,1.18,0,HS,Rancho Bernardo HS (San Diego CA),hamelco01
+2002,1,,25,FrRnd,25,Giants,Y,$1375000,Matt Cain (minors),RHP,29.0,332,611,7,.121,.331,342,104,118,3.68,1.23,0,HS,Houston HS (Germantown TN),cainma01
+2002,1s,,31,FrRnd,31,Dodgers,Y,$1200000,*Greg Miller (minors),LHP,,,,,,,,,,,,,HS,Esperanza HS (Anaheim CA),-9999
+2001,1,,4,FrRnd,4,Phillies,Y,$4200000,Gavin Floyd (minors),RHP,15.7,44,75,0,.067,.158,243,74,76,4.37,1.32,0,HS,Mount St. Joseph HS (Baltimore MD),floydga01
+2001,1,,9,FrRnd,9,Royals,Y,$2400000,Colt Griffin (minors),RHP,,,,,,,,,,,,,HS,Marshall HS (Marshall TX),-9999
+2001,1,,12,FrRnd,12,Brewers,Y,$2075000,Mike Jones (minors),RHP,,,,,,,,,,,,,HS,Thunderbird HS (Phoenix AZ),-9999
+2001,1,,16,FrRnd,16,White Sox via Marlins,Y,$1500000,*Kris Honel (minors),RHP,,,,,,,,,,,,,HS,Providence Catholic HS (New Lenox IL),-9999
+2001,1,,17,FrRnd,17,Indians via Red Sox,Y,$1860000,*Dan Denham (minors),RHP,,,,,,,,,,,,,HS,Deer Valley HS (Antioch CA),-9999
+2001,1,,20,FrRnd,20,Reds,N,,Jeremy Sowers (minors),LHP,1.6,4,4,0,.250,.750,72,18,30,5.18,1.44,0,HS,Ballard HS (Louisville KY),sowerje01
+2001,1,,24,FrRnd,24,Braves via Dodgers,Y,$1340000,*Macay McBride (minors),LHP,-0.2,104,0,0,,,132,6,2,4.35,1.63,2,HS,Screven County HS (Sylvania GA),mcbrima01
+2001,1,,26,FrRnd,26,Athletics via Mets,Y,$1350000,*Jeremy Bonderman (minors),RHP,4.9,15,30,0,.033,.067,225,69,81,4.91,1.41,0,HS,Pasco HS (Pasco WA),bondeje01
+2001,1,,27,FrRnd,27,Indians via White Sox,N,,*Alan Horne (minors),RHP,,,,,,,,,,,,,HS,Marianna HS (Marianna FL),-9999
+2001,1s,,35,FrRnd,35,Indians,Y,$975000,*J.D. Martin (minors),RHP,0.7,24,37,0,.162,.373,24,6,9,4.32,1.41,0,HS,Sherman E. Burroughs HS (Ridgecrest CA),martijd01
+2000,1,,4,FrRnd,4,Royals,Y,$2500000,Mike Stodolka (minors),LHP,,,,,,,,,,,,,HS,Centennial HS (Corona CA),-9999
+2000,1,,7,FrRnd,7,Rockies,N,,Matt Harrington (minors),RHP,,,,,,,,,,,,,HS,Palmdale HS (Palmdale CA),-9999
+2000,1,,8,FrRnd,8,Tigers,Y,$2150000,Matt Wheatland (minors),RHP,,,,,,,,,,,,,HS,Rancho Bernardo HS (San Diego CA),-9999
+2000,1,,9,FrRnd,9,Padres,Y,$2200000,Mark Phillips (minors),LHP,,,,,,,,,,,,,HS,Hanover HS (Hanover PA),-9999
+2000,1,,10,FrRnd,10,Angels,Y,$2080000,Joe Torres (minors),LHP,,,,,,,,,,,,,HS,Gateway HS (Kissimmee FL),-9999
+2000,1,,19,FrRnd,19,Pirates,Y,$1650000,Sean Burnett (minors),LHP,5.9,351,29,0,.069,.285,380,15,23,3.52,1.34,10,HS,Wellington HS (Wellington FL),burnese01
+2000,1,,21,FrRnd,21,Giants,Y,$1245000,Boof Bonser (minors),RHP,-0.5,6,6,0,.000,.000,111,19,25,5.18,1.46,0,HS,Gibbs HS (St. Petersburg FL),bonsebo01
+2000,1,,29,FrRnd,29,Braves via Diamondbacks,Y,$1250000,*Adam Wainwright (minors),RHP,45.3,426,744,10,.192,.510,478,200,128,3.53,1.24,3,HS,Glynn Academy HS (Brunswick GA),wainwad01
+2000,1s,,32,FrRnd,32,Orioles,Y,$1050000,*Tripper Johnson (minors),RHP,,,,,,,,,,,,,HS,Newport HS (Bellevue WA),-9999
+2000,1s,,33,FrRnd,33,Blue Jays,Y,$950000,*Dustin McGowan (minors),RHP,1.6,135,27,0,.074,.148,290,35,34,4.5,1.38,2,HS,Long County HS (Ludowici GA),mcgowdu01
+2000,1s,,34,FrRnd,34,Reds,Y,$900000,*Dustin Moseley (minors),RHP,0.7,24,30,0,.133,.295,101,15,21,4.67,1.43,0,HS,Arkansas HS (Texarkana AR),moseldu01
+2000,1s,,36,FrRnd,36,Mets,Y,$895000,*Bobby Keppel (minors),RHP,0.2,7,2,0,.000,.333,49,1,5,5.36,1.66,0,HS,De Smet Jesuit HS (Creve Coeur MO),keppebo01
+2000,1s,,37,FrRnd,37,Indians,Y,$850000,*Derek Thompson (minors),LHP,0.2,4,4,0,.000,.000,4,0,0,3.5,1.44,0,HS,Land O'Lakes HS (Land O'Lakes FL),thompde01
+1999,1,,2,FrRnd,2,Marlins,Y,$3625000,Josh Beckett (minors),RHP,35.7,153,289,3,.142,.390,335,138,106,3.88,1.23,0,HS,Spring HS (Spring TX),beckejo02
+1999,1,,6,FrRnd,6,Expos,Y,$1700000,Josh Girdley (minors),LHP,,,,,,,,,,,,,HS,Jasper HS (Jasper TX),-9999
+1999,1,,8,FrRnd,8,Pirates,Y,$2250000,Bobby Bradley (minors),RHP,,,,,,,,,,,,,HS,Wellington HS (Wellington FL),-9999
+1999,1,,12,FrRnd,12,Phillies,Y,$2050000,Brett Myers (minors),RHP,14.6,329,471,0,.134,.334,381,97,96,4.25,1.33,40,HS,Englewood HS (Jacksonville FL),myersbr01
+1999,1,,14,FrRnd,14,Reds,Y,$1750000,Ty Howington (minors),LHP,,,,,,,,,,,,,HS,Hudson's Bay HS (Vancouver WA),-9999
+1999,1,,15,FrRnd,15,White Sox,Y,$1750000,Jason Stumm (minors),RHP,,,,,,,,,,,,,HS,Centralia HS (Centralia WA),-9999
+1999,1,,18,FrRnd,18,Orioles via Cardinals,Y,$1795000,*Rich Stahl (minors),LHP,,,,,,,,,,,,,HS,Newton HS (Covington GA),-9999
+1999,1,,28,FrRnd,28,Padres,Y,$1100000,Gerik Baxter (minors),RHP,,,,,,,,,,,,,HS,Edmonds-Woodway HS (Edmonds WA),-9999
+1999,1s,,31,FrRnd,31,Diamondbacks,Y,$1300000,*Casey Daigle (minors),RHP,-1.2,32,18,0,.111,.333,33,3,4,7.16,1.97,0,HS,Sulphur HS (Sulphur LA),daiglca01
+1999,1s,,34,FrRnd,34,Orioles,Y,$950000,*Josh Cenate (minors),LHP,,,,,,,,,,,,,HS,Jefferson HS (Shenandoah Junction WV),-9999
+1999,1s,,35,FrRnd,35,White Sox,Y,$1000000,*Brian West (minors),RHP,,,,,,,,,,,,,HS,West Monroe HS (West Monroe LA),-9999
+1999,1s,,39,FrRnd,39,Giants,Y,$832500,*Jerome Williams (minors),RHP,3.5,122,167,0,.108,.255,236,52,66,4.59,1.39,2,HS,Waipahu HS (Waipahu HI),willije01
+1999,1s,,40,FrRnd,40,Red Sox,Y,$832500,*Brad Baker (minors),RHP,,,,,,,,,,,,,HS,Pioneer Valley Regional School (Northfield MA),-9999
+1999,1s,,43,FrRnd,43,Royals,Y,$725000,*Jimmy Gobble (minors),LHP,1.5,13,2,0,.000,.000,247,22,23,5.29,1.49,4,HS,John S. Battle HS (Bristol VA),gobblji01
+1999,1s,,44,FrRnd,44,Orioles,Y,$737500,*Scott Rice (minors),LHP,-0.1,98,0,0,,,105,5,7,4.18,1.48,0,HS,Royal HS (Simi Valley CA),ricesc01
+1999,1s,,47,FrRnd,47,Rangers,Y,$600000,*David Mead (minors),RHP,,,,,,,,,,,,,HS,Soddy-Daisy HS (Soddy-Daisy TN),-9999
+1998,1,,13,FrRnd,13,Brewers,Y,$1725000,J.M. Gold (minors),RHP,,,,,,,,,,,,,HS,Toms River North HS (Toms River NJ),-9999
+1998,1,,20,FrRnd,20,Indians,Y,$1300000,CC Sabathia (minors),LHP,62.3,48,121,3,.207,.525,561,251,161,3.74,1.26,0,HS,Vallejo HS (Vallejo CA),sabatc.01
+1998,1,,28,FrRnd,28,Rockies via Braves,Y,$1012500,*Matt Roney (minors),RHP,-0.1,4,2,0,.500,1.000,48,1,10,5.42,1.49,0,HS,Edmond North HS (Edmond OK),roneyma01
+1998,1s,,31,FrRnd,31,Royals,Y,$1162500,*Chris George (minors),LHP,-0.5,2,3,0,.333,.833,47,14,20,6.48,1.66,0,HS,Klein HS (Klein TX),georgch02
+1998,1s,,34,FrRnd,34,Tigers,Y,$865000,*Nate Cornejo (minors),RHP,0.0,2,4,0,.000,.000,56,12,29,5.41,1.66,0,HS,Wellington HS (Wellington KS),cornena01
+1998,1s,,37,FrRnd,37,Astros,Y,$595000,*Mike Nannini (minors),RHP,,,,,,,,,,,,,HS,Green Valley HS (Henderson NV),-9999
+1998,1s,,38,FrRnd,38,Giants,Y,$587000,*Chris Jones (minors),LHP,,,,,,,,,,,,,HS,South Mecklenburg HS (Charlotte NC),-9999
+1998,1s,,43,FrRnd,43,Yankees,N,,*Mark Prior (minors),RHP,16.6,102,204,1,.201,.496,106,42,29,3.51,1.23,0,HS,University HS (San Diego CA),priorma01
+1997,1,,6,FrRnd,6,Mets,Y,$1700000,Geoff Goetz (minors),LHP,,,,,,,,,,,,,HS,Jesuit HS (Tampa FL),-9999
+1997,1,,10,FrRnd,10,Cubs,Y,$1325000,Jon Garland (minors),RHP,22.5,102,175,1,.137,.353,365,136,125,4.37,1.39,1,HS,John F. Kennedy HS (Granada Hills CA),garlajo01
+1997,1,,17,FrRnd,17,Red Sox,Y,$975000,John Curtice (minors),LHP,,,,,,,,,,,,,HS,Great Bridge HS (Chesapeake VA),-9999
+1997,1,,18,FrRnd,18,Rockies,Y,$875000,Mark Mangum (minors),RHP,,,,,,,,,,,,,HS,Kingwood HS (Kingwood TX),-9999
+1997,1,,19,FrRnd,19,Mariners,Y,$2175000,Ryan Anderson (minors),LHP,,,,,,,,,,,,,HS,Divine Child HS (Dearborn MI),-9999
+1997,1,,23,FrRnd,23,Expos,Y,,Donnie Bridges (minors),RHP,,,,,,,,,,,,,HS,Oak Grove HS (Hattiesburg MS),-9999
+1997,1,,28,FrRnd,28,Indians,Y,$1600000,Tim Drew (minors),RHP,-2.3,25,7,0,.000,.125,35,2,4,7.02,1.80,2,HS,Lowndes HS (Valdosta GA),drewti01
+1997,1,,31,FrRnd,31,Rays,Y,$700000,Jason Standridge (minors),RHP,-0.7,55,0,0,,,80,3,9,5.8,1.77,0,HS,Hewitt-Trussville HS (Trussville AL),standja01
+1997,1s,,37,FrRnd,37,Expos,Y,,*Chris Stowe (minors),RHP,,,,,,,,,,,,,HS,Chancellor HS (Fredericksburg VA),-9999
+1997,1s,,47,FrRnd,47,Expos,Y,,*T.J. Tucker (minors),RHP,0.6,160,36,0,.278,.583,171,13,9,4.57,1.47,4,HS,River Ridge HS (New Port Richey FL),tucket.01
+1997,1s,,48,FrRnd,48,Expos,Y,,*Shane Arthurs (minors),RHP,,,,,,,,,,,,,HS,Westmoore HS (Oklahoma City OK),-9999
+1996,1,,5,FrRnd,5,Expos,N,,John Patterson (minors),RHP,5.0,84,133,0,.105,.253,88,18,25,4.32,1.35,1,HS,West Orange-Stark HS (Orange TX),pattejo02
+1996,1,,7,FrRnd,7,Giants,N,,Matt White (minors),RHP,,,,,,,,,,,,,HS,Waynesboro Area HS (Waynesboro PA),-9999
+1996,1,,11,FrRnd,11,Phillies,Y,$1100000,Adam Eaton (minors),RHP,4.6,208,341,3,.194,.543,209,71,68,4.94,1.44,0,HS,Snohomish HS (Snohomish WA),eatonad01
+1996,1,,12,FrRnd,12,White Sox,N,,Bobby Seay (minors),LHP,3.0,27,1,0,.000,.000,261,11,6,4.16,1.37,1,HS,Sarasota HS (Sarasota FL),seaybo01
+1996,1,,17,FrRnd,17,Cubs,Y,$900000,Todd Noel (minors),RHP,,,,,,,,,,,,,HS,North Vermilion HS (Maurice LA),-9999
+1996,1,,21,FrRnd,21,Rockies,Y,$750000,Jake Westbrook (minors),RHP,13.1,107,169,1,.130,.382,315,105,103,4.32,1.41,0,HS,Madison County HS (Danielsville GA),westbja01
+1996,1,,22,FrRnd,22,Mariners,Y,$820000,Gil Meche (minors),RHP,16.8,11,23,0,.130,.261,258,84,83,4.49,1.42,0,HS,Acadiana HS (Lafayette LA),mechegi01
+1996,1,,24,FrRnd,24,Rangers via Yankees,Y,$834000,*Sam Marsonek (minors),RHP,0.1,0,0,0,,,1,0,0,0,1.50,0,HS,Jesuit HS (Tampa FL),marsosa01
+1996,1,,26,FrRnd,26,Red Sox,Y,$665000,Josh Garrett (minors),RHP,,,,,,,,,,,,,HS,South Spencer HS (Rockport IN),-9999
+1996,1,,30,FrRnd,30,D'backs,Y,$1046000,Nick Bierbrodt (minors),LHP,-1.1,8,8,0,.500,1.225,38,6,9,6.66,1.82,0,HS,Millikan HS (Long Beach CA),bierbni01
+1996,1s,,33,FrRnd,33,Reds,N,,*Matt McClendon (minors),RHP,,,,,,,,,,,,,HS,Dr. Phillips HS (Orlando FL),-9999
+1996,1s,,34,FrRnd,34,Red Sox,Y,,*Chris Reitsma (minors),RHP,0.6,303,87,0,.103,.258,338,32,46,4.7,1.41,37,HS,Calgary Christian HS (Calgary AB),reitsch01
+1996,1s,,35,FrRnd,35,Braves,Y,,*Jason Marquis (minors),RHP,6.8,422,663,5,.196,.491,377,124,118,4.61,1.45,1,HS,Tottenville HS (Staten Island NY),marquja01
+1995,1,,4,FrRnd,4,Cubs,Y,$1265000,Kerry Wood (minors),RHP,27.6,341,346,7,.171,.444,446,86,75,3.67,1.27,63,HS,Grand Prairie HS (Grand Prairie TX),woodke02
+1995,1,,15,FrRnd,15,Red Sox,Y,$986000,Andy Yount (minors),RHP,,,,,,,,,,,,,HS,Kingwood HS (Kingwood TX),-9999
+1995,1,,16,FrRnd,16,Giants,Y,$900000,Joe Fontenot (minors),RHP,-0.8,6,10,0,.000,.000,8,0,7,6.33,1.78,0,HS,Acadiana HS (Lafayette LA),fontejo01
+1995,1,,17,FrRnd,17,Blue Jays,Y,$895000,Roy Halladay (minors),RHP,64.2,115,275,0,.124,.267,416,203,105,3.38,1.18,1,HS,Arvada West HS (Arvada CO),hallaro01
+1995,1,,22,FrRnd,22,Astros,Y,$500000,Tony McKnight (minors),RHP,0.8,21,37,0,.000,.051,21,7,7,4.63,1.45,0,HS,Arkansas HS (Texarkana AR),mcknito01
+1995,1,,26,FrRnd,26,Braves,N,,Chad Hutchinson (minors),RHP,-0.5,3,1,0,.000,.000,3,0,0,24.75,3.75,0,HS,Torrey Pines HS (San Diego CA),hutchch01
+1995,1s,,30,FrRnd,30,Phillies,Y,,*Dave Coggin (minors),RHP,0.2,57,48,0,.042,.161,60,10,12,4.52,1.51,0,HS,Upland HS (Upland CA),coggida01
+1994,1,,7,FrRnd,7,Rockies,Y,$905000,Doug Million (minors),LHP,,,,,,,,,,,,,HS,Sarasota HS (Sarasota FL),-9999
+1994,1,,10,FrRnd,10,Indians,Y,$1150000,Jaret Wright (minors),RHP,4.4,90,78,1,.141,.376,226,68,60,5.09,1.56,2,HS,Katella HS (Anaheim CA),wrighja02
+1994,1,,15,FrRnd,15,Cubs,Y,$712500,Jay Peterson (minors),RHP,,,,,,,,,,,,,HS,East HS (Denver CO),-9999
+1994,1,,16,FrRnd,16,Royals,Y,$1000000,Matt Smith (minors),LHP,,,,,,,,,,,,,HS,Grants Pass HS (Grants Pass OR),-9999
+1994,1,,25,FrRnd,25,Astros via Giants,Y,$750000,*Scott Elarton (minors),RHP,2.6,146,166,0,.139,.344,232,56,61,5.29,1.43,3,HS,Lamar HS (Lamar CO),elartsc01
+1994,1,,27,FrRnd,27,Braves,Y,$500000,Jacob Shumate (minors),RHP,,,,,,,,,,,,,HS,Hartsville HS (Hartsville SC),-9999
+1993,1,,8,FrRnd,8,Mets,Y,$900000,Kirk Presley (minors),RHP,,,,,,,,,,,,,HS,Tupelo HS (Tupelo MS),-9999
+1993,1,,13,FrRnd,13,Yankees,Y,$620000,Matt Drews (minors),RHP,,,,,,,,,,,,,HS,Sarasota HS (Sarasota FL),-9999
+1993,1,,15,FrRnd,15,Blue Jays via Rangers,Y,$580000,*Chris Carpenter (minors),RHP,34.2,196,439,2,.118,.296,350,144,94,3.76,1.28,0,HS,Trinity HS (Manchester NH),carpech01
+1993,1,,23,FrRnd,23,Brewers,Y,$525000,Jeff D'Amico (minors),RHP,5.6,90,148,2,.101,.342,139,45,52,4.61,1.34,0,HS,Northeast HS (St. Petersburg FL),d'amije01
+1993,1,,28,FrRnd,28,Rockies,Y,$395000,Jamey Wright (minors),RHP,9.2,384,443,1,.144,.357,719,97,130,4.81,1.54,2,HS,Westmoore HS (Oklahoma City OK),wrighja01
+1993,1s,,41,FrRnd,41,Blue Jays,Y,,*Jeremy Lee (minors),RHP,,,,,,,,,,,,,HS,Galesburg HS (Galesburg IL),-9999
+1992,1,,17,FrRnd,17,Royals via Padres,Y,$410000,*Jim Pittsley (minors),RHP,-1.1,17,5,0,.200,.733,81,7,12,6.02,1.71,0,HS,DuBois Area HS (DuBois PA),pittsji01
+1992,1,,21,FrRnd,21,Braves,Y,$380000,Jamie Arnold (minors),RHP,-1.4,47,19,0,.158,.411,50,2,7,5.73,1.63,2,HS,Osceola HS (Kissimmee FL),arnolja01
+1992,1,,26,FrRnd,26,Twins,Y,$350000,Dan Serafini (minors),LHP,-0.8,73,43,0,.070,.200,104,15,16,6.04,1.72,1,HS,Junipero Serra HS (San Mateo CA),serafda01
+1992,1s,,30,FrRnd,30,Mets,N,,*Jon Ward (minors),RHP,,,,,,,,,,,,,HS,Huntington Beach HS (Huntington Beach CA),-9999
+1991,1,,1,FrRnd,1,Yankees,Y,$1550000,Brien Taylor (minors),LHP,,,,,,,,,,,,,HS,East Carteret HS (Beaufort NC),-9999
+1991,1,,5,FrRnd,5,Brewers,N,,Ken Henderson (minors),RHP,,,,,,,,,,,,,HS,Ringgold HS (Ringgold GA),-9999
+1991,1,,11,FrRnd,11,Mariners,Y,$332500,Shawn Estes (minors),LHP,10.4,296,498,4,.159,.408,283,101,93,4.71,1.53,0,HS,Douglas HS (Minden NV),estessh01
+1991,1,,15,FrRnd,15,Brewers via Tigers,Y,$280000,*Ty Hill (minors),LHP,,,,,,,,,,,,,HS,Yucaipa HS (Yucaipa CA),-9999
+1991,1,,22,FrRnd,22,Cardinals via Mets,Y,$200000,*Brian Barber (minors),RHP,-0.6,12,8,0,.125,.347,26,5,8,6.77,1.68,1,HS,Dr. Phillips HS (Orlando FL),barbebr02
+1991,1s,,28,FrRnd,28,Cardinals,Y,,*Tom McKinnon (minors),RHP,,,,,,,,,,,,,HS,Jordan HS (Long Beach CA),-9999
+1991,1s,,30,FrRnd,30,Royals,Y,,*Jason Pruitt (minors),RHP,,,,,,,,,,,,,HS,Rockingham County HS (Reidsville NC),-9999
+1991,1s,,31,FrRnd,31,Padres,Y,,*Pepper Anthony (minors),RHP,,,,,,,,,,,,,HS,Tavares HS (Tavares FL),-9999
+1991,1s,,32,FrRnd,32,Tigers,Y,,*Justin Thompson (minors),LHP,12.8,5,14,0,.071,.143,103,36,43,4.02,1.34,0,HS,Klein Oak HS (Spring TX),thompju02
+1991,1s,,38,FrRnd,38,Athletics,Y,,*Mike Rossiter (minors),RHP,,,,,,,,,,,,,HS,John Burroughs HS (Burbank CA),-9999
+1991,1s,,41,FrRnd,41,Tigers,Y,,*Trever Miller (minors),LHP,4.7,408,6,0,.167,.500,694,18,17,4.18,1.45,11,HS,Trinity HS (Louisville KY),milletr02
+1990,1,,5,FrRnd,5,Pirates,Y,$232000,Kurt Miller (minors),RHP,-2.6,44,14,0,.286,.571,44,2,7,7.48,1.91,0,HS,West HS (Bakersfield CA),milleku01
+1990,1,,9,FrRnd,9,Dodgers,Y,$215000,Ron Walden (minors),LHP,,,,,,,,,,,,,HS,Blanchard HS (Blanchard OK),-9999
+1990,1,,12,FrRnd,12,Twins,Y,$252500,Todd Ritchie (minors),RHP,6.1,99,187,0,.176,.409,184,43,54,4.71,1.43,0,HS,Duncanville HS (Duncanville TX),ritchto01
+1990,1,,14,FrRnd,14,Athletics via Brewers,Y,$500000,*Todd Van Poppel (minors),RHP,-0.3,182,57,0,.158,.362,359,40,52,5.58,1.55,4,HS,James W. Martin HS (Arlington TX),vanpoto01
+1990,1,,22,FrRnd,22,Blue Jays,Y,$180000,Steve Karsay (minors),RHP,11.1,58,4,0,.000,.000,357,32,39,4.01,1.38,41,HS,Christ the King HS (Queens NY),karsast01
+1990,1,,25,FrRnd,25,Padres via Royals,Y,$175000,*Robbie Beckett (minors),LHP,-0.3,7,0,0,,,7,0,0,11.57,2.43,0,HS,A. N. McCallum HS (Austin TX),beckero01
+1990,1s,,28,FrRnd,28,Expos,Y,,*Gabe White (minors),LHP,6.2,422,38,1,.105,.312,472,34,26,4.51,1.22,17,HS,Sebring HS (Sebring FL),whitega01
+1990,1s,,37,FrRnd,37,Expos,Y,,*Ben Van Ryn (minors),LHP,-0.2,15,1,0,.000,.000,26,0,2,5.74,2.04,0,HS,East Noble HS (Kendaliville IN),vanrybe01
+1989,1,,3,FrRnd,3,Mariners,Y,$210000,Roger Salkeld (minors),RHP,0.2,29,32,0,.031,.092,45,10,10,5.61,1.62,0,HS,Saugus HS (Saugus CA),salkero01
+1989,1,,12,FrRnd,12,Astros,Y,$185000,Jeff Juden (minors),RHP,-0.4,126,119,1,.109,.284,147,27,32,4.81,1.42,0,HS,Salem HS (Salem MA),judenje01
+1989,1,,15,FrRnd,15,Dodgers via Yankees,Y,$175000,*Kiki Jones (minors),RHP,,,,,,,,,,,,,HS,Hillsborough HS (Tampa FL),-9999
+1989,1,,26,FrRnd,26,Mariners via Athletics,N,,*Scott Burrell (minors),RHP,,,,,,,,,,,,,HS,Hamden HS (Hamden CT),-9999
+1988,1,,3,FrRnd,3,Braves,Y,$211500,Steve Avery (minors),LHP,13.8,232,437,4,.174,.446,297,96,83,4.19,1.35,0,HS,John F. Kennedy HS (Taylor MI),averyst01
+1988,1,,24,FrRnd,24,Brewers,N,,Alex Fernandez (minors),RHP,28.5,64,126,3,.175,.537,263,107,87,3.74,1.28,0,HS,Monsignor Edward Pace HS (Miami Gardens FL),fernaal01
+1987,1,,3,FrRnd,3,Twins,Y,$160000,Willie Banks (minors),RHP,1.0,85,68,0,.176,.428,181,33,39,4.75,1.53,2,HS,St. Anthony's HS (Jersey City NJ),bankswi01
+1987,1,,7,FrRnd,7,Orioles,Y,$160000,Chris Myers (minors),LHP,,,,,,,,,,,,,HS,H. B. Plant HS (Tampa FL),-9999
+1987,1,,8,FrRnd,8,Dodgers,Y,$160000,Dan Opperman (minors),RHP,,,,,,,,,,,,,HS,Valley HS (Las Vegas NV),-9999
+1987,1,,19,FrRnd,19,Rangers,Y,$137000,Brian Bohanon (minors),LHP,9.0,145,231,3,.229,.584,304,54,60,5.19,1.54,2,HS,North Shore HS (Houston TX),bohanbr01
+1987,1,,26,FrRnd,26,Red Sox,Y,$92500,Reggie Harris (minors),RHP,-0.1,61,1,0,.000,.000,86,2,3,4.91,1.55,0,HS,Waynesboro HS (Waynesboro VA),harrire01
+1987,1s,,31,FrRnd,31,Angels,Y,,*David Holdridge (minors),RHP,0.1,0,0,0,,,7,0,0,4.05,1.50,0,HS,Ocean View HS (Huntington Beach CA),holdrda01
+1986,1,,5,FrRnd,5,Braves,Y,$100000,Kent Mercker (minors),LHP,12.0,637,248,1,.113,.311,692,74,67,4.16,1.44,25,HS,Dublin Coffman HS (Dublin OH),merckke01
+1986,1,,10,FrRnd,10,Twins,Y,$130000,Derek Parks (minors),RHP,-0.5,45,115,1,.200,.536,,,,,,,HS,Montclair HS (Montclair CA),parksde01
+1986,1,,13,FrRnd,13,Astros,Y,$165000,Ryan Bowen (minors),RHP,-1.2,71,102,0,.176,.450,64,17,28,5.3,1.64,0,HS,Hanford HS (Hanford CA),bowenry01
+1986,1,,17,FrRnd,17,Reds,Y,$125000,Scott Scudder (minors),RHP,-1.3,71,71,1,.113,.337,96,21,34,4.8,1.56,1,HS,Prairiland HS (Pattonville TX),scuddsc01
+1986,1s,,28,FrRnd,28,Angels,Y,,*Daryl Green (minors),RHP,,,,,,,,,,,,,HS,Nacogdoches HS (Nacogdoches TX),-9999
+1985,1,,13,FrRnd,13,Twins,Y,$162000,Jeff Bumgarner (minors),RHP,,,,,,,,,,,,,HS,Hanford HS (Richland WA),-9999
+1985,1,,14,FrRnd,14,Braves,Y,$162000,Tommy Greene (minors),RHP,7.2,122,213,4,.221,.571,119,38,25,4.14,1.32,0,HS,Whiteville HS (Whiteville NC),greento01
+1985,1,,21,FrRnd,21,Red Sox,Y,$100000,Dan Gabriele (minors),RHP,,,,,,,,,,,,,HS,Western HS (Walled Lake MI),-9999
+1985,1,,26,FrRnd,26,Tigers,Y,$100000,Randy Nosek (minors),RHP,-0.7,0,0,0,,,5,1,3,10.22,2.68,0,HS,Chillicothe HS (Chillicothe MO),nosekra01
+1985,1s,,28,FrRnd,28,Yankees,Y,,*Rick Balabon (minors),RHP,,,,,,,,,,,,,HS,Conestoga HS (Berwyn PA),-9999
+1984,1,,20,FrRnd,20,White Sox via Blue Jays,Y,$90000,*Tony Menéndez (minors),RHP,-0.3,23,1,0,.000,.000,23,3,1,4.97,1.21,0,HS,American HS (Miami FL),menento01
+1984,1,,21,FrRnd,21,Phillies,Y,$92500,Pete Smith (minors),RHP,5.0,207,279,0,.118,.321,231,47,71,4.55,1.41,1,HS,Burlington HS (Burlington MA),smithpe02
+1983,1,,6,FrRnd,6,Cubs,Y,$82500,Jackie Davidson (minors),RHP,,,,,,,,,,,,,HS,Everman HS (Everman TX),-9999
+1983,1,,13,FrRnd,13,White Sox via Yankees,Y,$75000,*Joel Davis (minors),RHP,0.6,0,0,0,,,49,8,14,4.91,1.51,0,HS,Sandalwood HS (Jacksonville FL),davisjo03
+1983,1,,15,FrRnd,15,Tigers,Y,$69900,Wayne Dotson (minors),RHP,,,,,,,,,,,,,HS,Estacado HS (Lubbock TX),-9999
+1983,1,,16,FrRnd,16,Expos via Giants,Y,$100000,*Brian Holman (minors),RHP,9.1,31,37,0,.108,.240,109,37,45,3.71,1.38,0,HS,Wichita North HS (Wichita KS),holmabr01
+1983,1,,25,FrRnd,25,Orioles,Y,$40000,Wayne Wilson (minors),RHP,,,,,,,,,,,,,HS,Redondo Union HS (Redondo Beach CA),-9999
+1982,1,,3,FrRnd,3,Padres,Y,$102500,Jimmy Jones (minors),RHP,-1.9,131,193,2,.166,.439,153,43,39,4.46,1.39,0,HS,Thomas Jefferson HS (Dallas TX),jonesji02
+1982,1,,5,FrRnd,5,Mets,Y,$85000,Dwight Gooden (minors),RHP,53.0,318,741,8,.196,.474,430,194,112,3.51,1.26,3,HS,Hillsborough HS (Tampa FL),goodedw01
+1982,1,,8,FrRnd,8,Angels,Y,$92500,Bob Kipper (minors),LHP,-1.3,247,95,0,.137,.321,271,27,37,4.34,1.32,11,HS,Aurora Central Catholic HS (Aurora IL),kippebo01
+1982,1,,9,FrRnd,9,Braves,Y,$85000,Duane Ward (minors),RHP,10.1,11,1,0,.000,.000,462,32,37,3.28,1.26,121,HS,Farmington HS (Farmington NM),warddu01
+1982,1,,12,FrRnd,12,Indians,Y,$85000,Mark Snyder (minors),RHP,,,,,,,,,,,,,HS,Bearden HS (Knoxville TN),-9999
+1982,1,,18,FrRnd,18,Red Sox,Y,$65000,Bob Parkins (minors),RHP,,,,,,,,,,,,,HS,Cerritos HS (Cerritos CA),-9999
+1982,1,,20,FrRnd,20,Tigers,Y,$73000,Rich Monteleone (minors),RHP,2.6,39,3,0,.000,.000,210,24,17,3.87,1.31,0,HS,Tampa Catholic HS (Tampa FL),monteri01
+1982,1,,22,FrRnd,22,Reds via Yankees,Y,$100000,*Scott Jones (minors),LHP,,,,,,,,,,,,,HS,Hinsdale South HS (Darien IL),-9999
+1982,1,,23,FrRnd,23,Reds,Y,$45000,Billy Hawley (minors),RHP,,,,,,,,,,,,,HS,Brookland-Cayce HS (Cayce SC),-9999
+1981,1,,7,FrRnd,7,White Sox,Y,$68000,Daryl Boston (minors),LHP,4.3,1058,2629,83,.249,.722,,,,,,,HS,Woodward HS (Cincinnati OH),bostoda01
+1981,1,,10,FrRnd,10,Giants,Y,$85000,Mark Grant (minors),RHP,2.2,211,104,0,.067,.231,233,22,32,4.31,1.43,8,HS,Joliet Catholic Academy (Joliet IL),grantma01
+1981,1,,16,FrRnd,16,Cubs via Reds,Y,$85000,*Vance Lovelace (minors),LHP,-0.1,0,0,0,,,9,0,0,5.79,3.21,0,HS,Hillsborough HS (Tampa FL),lovelva01
+1981,1,,17,FrRnd,17,Tigers,Y,$67500,Ricky Barlow (minors),RHP,,,,,,,,,,,,,HS,Woodville HS (Woodville TX),-9999
+1981,1,,20,FrRnd,20,Phillies,Y,$70000,Johnny Abrego (minors),RHP,-0.6,6,9,0,.000,.000,6,1,1,6.38,1.83,0,HS,Mission San Jose HS (Fremont CA),abregjo01
+1980,1,,11,FrRnd,11,Cubs,Y,$62500,Don Schulze (minors),RHP,-1.6,17,7,0,.000,.300,76,15,25,5.47,1.56,0,HS,Lake Park HS (Roselle IL),schuldo01
+1980,1,,14,FrRnd,14,Rangers,Y,$50000,Tim Maki (minors),RHP,,,,,,,,,,,,,HS,Carroll HS (Fort Wayne IN),-9999
+1980,1,,15,FrRnd,15,Cardinals,Y,$50000,Donald Collins (minors),RHP,,,,,,,,,,,,,HS,Ferguson HS (Newport News VA),-9999
+1980,1,,19,FrRnd,19,Reds,Y,$92500,Ron Robinson (minors),RHP,8.1,202,144,0,.153,.324,232,48,39,3.63,1.34,19,HS,Woodlake HS (Woodlake CA),robinro01
+1979,1,,7,FrRnd,7,Indians,Y,$77500,John Bohnet (minors),LHP,-0.2,0,0,0,,,3,0,0,6.94,1.54,0,HS,Hogan HS (Vallejo CA),bohnejo01
+1979,1,,15,FrRnd,15,Giants via Angels,Y,$50000,*Scott Garrelts (minors),RHP,9.6,370,232,1,.125,.323,352,69,53,3.29,1.28,48,HS,Buckley Loda HS (Buckley IL),garresc01
+1979,1,,18,FrRnd,18,Giants,N,,Rick Luecken (minors),RHP,-0.4,36,3,0,.333,1.000,56,3,5,5.1,1.83,2,HS,Spring Woods HS (Houston TX),lueckri01
+1978,1,,4,FrRnd,4,Athletics,Y,$50000,Mike Morgan (minors),RHP,26.2,387,497,0,.109,.251,597,141,186,4.23,1.40,8,HS,Valley HS (Las Vegas NV),morgami01
+1978,1,,5,FrRnd,5,Padres,Y,$62500,Andy Hawkins (minors),RHP,1.3,200,325,0,.117,.263,280,84,91,4.22,1.40,0,HS,Midway HS (Waco TX),hawkian01
+1978,1,,20,FrRnd,20,Athletics via Rangers,Y,$30000,*Tim Conroy (minors),LHP,-2.6,36,44,0,.091,.285,135,18,32,4.69,1.55,0,HS,Gateway HS (Monroeville PA),conroti01
+1978,1,,26,FrRnd,26,Yankees,Y,$50000,Brian Ryder (minors),RHP,,,,,,,,,,,,,HS,Shrewsbury HS (Shrewsbury MA),-9999
+1977,1,,2,FrRnd,2,Expos,Y,$75000,Bill Gullickson (minors),RHP,23.3,273,576,3,.141,.353,398,162,136,3.93,1.28,0,HS,Joliet Catholic Academy (Joliet IL),gullibi01
+1977,1,,4,FrRnd,4,Braves,Y,$52500,Tim Cole (minors),LHP,,,,,,,,,,,,,HS,Saugerties HS (Saugerties NY),-9999
+1977,1,,5,FrRnd,5,Tigers,Y,$43500,Kevin Richards (minors),RHP,,,,,,,,,,,,,HS,Roosevelt HS (Wyandotte MI),-9999
+1977,1,,7,FrRnd,7,Angels,Y,$60000,Richard Dotson (minors),RHP,15.9,8,0,0,,,305,111,113,4.23,1.41,0,HS,Anderson HS (Cincinnati OH),dotsori01
+1977,1,,13,FrRnd,13,Red Sox,Y,$42500,Andrew Madden (minors),RHP,,,,,,,,,,,,,HS,New Hartford HS (New Hartford NY),-9999
+1977,1,,17,FrRnd,17,Athletics,Y,$35000,Craig Harris (minors),RHP,,,,,,,,,,,,,HS,Buena HS (Sierra Vista AZ),-9999
+1977,1,,21,FrRnd,21,Royals,Y,$40000,Mike Jones (minors),LHP,-0.1,0,0,0,,,71,11,10,4.43,1.49,0,HS,Pittsford Sutherland HS (Pittsford NY),jonesmi02
+1977,1,,22,FrRnd,22,Phillies,Y,$40000,Scott Munninghoff (minors),RHP,0.2,4,1,0,1.000,4.000,4,0,0,4.5,2.17,0,HS,Purcell Marian HS (Cincinnati OH),munnisc01
+1976,1,,2,FrRnd,2,Tigers,Y,$70000,Pat Underwood (minors),LHP,1.1,0,0,0,,,113,13,18,4.43,1.33,8,HS,Kokomo HS (Kokomo IN),underpa01
+1976,1,,4,FrRnd,4,Brewers,N,,Bill Bordley (minors),LHP,-0.1,8,6,0,.167,.452,8,2,3,4.7,1.79,0,HS,Bishop Montgomery HS (Torrance CA),bordlbi01
+1976,1,,7,FrRnd,7,Cubs,Y,$52500,Herman Segelke (minors),RHP,-0.1,3,0,0,,,3,0,0,8.31,2.77,0,HS,El Camino HS (South San Francisco CA),segelhe01
+1976,1,,8,FrRnd,8,White Sox,Y,$32000,Steve Trout (minors),LHP,13.4,138,238,0,.160,.358,301,88,92,4.18,1.49,4,HS,Thornwood HS (South Holland IL),troutst01
+1976,1,,9,FrRnd,9,Expos,Y,$35000,Bob James (minors),RHP,2.2,111,21,0,.190,.381,279,24,26,3.8,1.31,73,HS,Verdugo Hills HS (Sunland CA),jamesbo01
+1976,1,,18,FrRnd,18,Royals,Y,$40000,Ben Grzybek (minors),RHP,,,,,,,,,,,,,HS,Hialeah HS (Hialeah FL),-9999
+1976,1,,21,FrRnd,21,Pirates,Y,$47500,Jim Parke (minors),RHP,,,,,,,,,,,,,HS,Henry Ford II HS (Sterling Heights MI),-9999
+1976,1,,22,FrRnd,22,Red Sox,Y,$42500,Bruce Hurst (minors),LHP,34.1,135,274,0,.113,.305,379,145,113,3.92,1.33,0,HS,Dixie HS (St. George UT),hurstbr01
+1976,1,,23,FrRnd,23,Reds,Y,$25000,Mark King (minors),RHP,,,,,,,,,,,,,HS,Owensboro HS (Owensboro KY),-9999
+1976,1,,24,FrRnd,24,Athletics,N,,Thomas Sullivan (minors),RHP,,,,,,,,,,,,,HS,Gar-Field HS (Woodbridge VA),-9999
+1975,1,,2,FrRnd,2,Padres,Y,$58000,Mike Lentz (minors),LHP,,,,,,,,,,,,,HS,Juanita HS (Kirkland WA),-9999
+1975,1,,5,FrRnd,5,Brewers,Y,$52000,Rick O'Keeffe (minors),LHP,,,,,,,,,,,,,HS,Yorktown HS (Yorktown Heights NY),-9999
+1975,1,,12,FrRnd,12,Phillies,Y,$57000,Sammye Welborn (minors),RHP,,,,,,,,,,,,,HS,Wichita Falls HS (Wichita Falls TX),-9999
+1975,1,,16,FrRnd,16,Cardinals,Y,$30000,David Johnson (minors),LHP,,,,,,,,,,,,,HS,Gaylord HS (Gaylord MI),-9999
+1975,1,,23,FrRnd,23,Orioles,Y,$32000,Dave Ford (minors),RHP,1.1,0,0,0,,,51,5,6,4.02,1.24,3,HS,Lincoln West HS (Cleveland OH),fordda02
+1974,1,,2,FrRnd,2,Rangers,Y,$87500,Tommy Boggs (minors),RHP,2.4,91,148,1,.169,.369,114,20,44,4.22,1.39,0,HS,Lanier HS (Austin TX),boggsto01
+1974,1,,6,FrRnd,6,Brewers,Y,$47500,Butch Edge (minors),RHP,0.1,0,0,0,,,9,3,4,5.23,1.63,0,HS,El Camino Fundamental HS (Sacramento CA),edgebu01
+1974,1,,8,FrRnd,8,White Sox,Y,$58000,Larry Monroe (minors),RHP,0.1,0,0,0,,,8,0,1,4.15,1.66,0,HS,Forest View HS (Arlington Heights IL),monrola01
+1974,1,,11,FrRnd,11,Pirates,Y,$35000,Rod Scurry (minors),LHP,5.6,257,55,0,.164,.393,332,19,32,3.24,1.43,39,HS,Procter R. Hug HS (Reno NV),scurrro01
+1974,1,,17,FrRnd,17,Mets,Y,$30000,Cliff Speck (minors),RHP,0.3,13,3,0,.000,.250,13,2,1,4.13,1.41,0,HS,Beaverton HS (Beaverton OR),speckcl01
+1974,1,,21,FrRnd,21,Dodgers,Y,$50000,Rick Sutcliffe (minors),RHP,33.9,316,562,4,.181,.474,457,171,139,4.08,1.39,6,HS,Van Horn HS (Independence MO),sutclri01
+1974,1,,23,FrRnd,23,Reds,Y,$25000,Steve Reed (minors),RHP,,,,,,,,,,,,,HS,Fort Wayne HS (Fort Wayne IN),-9999
+1973,1,,1,FrRnd,1,Rangers,Y,$65000,David Clyde (minors),LHP,0.6,1,0,0,,,84,18,33,4.63,1.53,0,HS,Westchester HS (Houston TX),clydeda01
+1973,1,,9,FrRnd,9,Royals,Y,$64000,Lew Olsen (minors),RHP,,,,,,,,,,,,,HS,San Ramon Valley HS (Danville CA),-9999
+1973,1,,13,FrRnd,13,Yankees,Unk,,Doug Heinold (minors),RHP,,,,,,,,,,,,,HS,Stroman HS (Victoria TX),-9999
+1973,1,,15,FrRnd,15,Orioles,Y,$20000,Mike Parrott (minors),RHP,2.0,0,0,0,,,119,19,39,4.87,1.56,5,HS,Adolfo Camarillo HS (Camarillo CA),parromi01
+1972,1,,3,FrRnd,3,Phillies,Y,$50000,Larry Christenson (minors),RHP,10.5,243,427,11,.150,.462,243,83,71,3.79,1.28,4,HS,Marysville HS (Marysville WA),chrisla01
+1972,1,,7,FrRnd,7,Reds,Y,$50000,Larry Payne (minors),RHP,,,,,,,,,,,,,HS,Huntsville HS (Huntsville TX),-9999
+1972,1,,11,FrRnd,11,Braves,Y,$40000,Preston Hanna (minors),RHP,1.8,133,93,1,.161,.459,156,17,25,4.61,1.65,1,HS,Escambia HS (Pensacola FL),hannapr01
+1972,1,,14,FrRnd,14,Yankees,Y,$72000,Scott McGregor (minors),LHP,20.2,1,0,0,,,356,138,108,3.99,1.29,5,HS,El Segundo HS (El Segundo CA),mcgresc01
+1972,1,,15,FrRnd,15,Cubs,Y,$26000,Brian Vernoy (minors),LHP,,,,,,,,,,,,,HS,La Quinta HS (Westminster CA),-9999
+1972,1,,19,FrRnd,19,Giants,Y,$30000,Rob Dressler (minors),RHP,2.5,31,38,0,.105,.255,82,11,23,4.17,1.40,0,HS,Madison HS (Portland OR),dressro01
+1972,1,,21,FrRnd,21,Cardinals,Y,$53500,Dan Larson (minors),RHP,-0.8,80,97,0,.216,.513,78,10,25,4.4,1.46,1,HS,Alhambra HS (Alhambra CA),larsoda01
+1971,1,,2,FrRnd,2,Padres,Y,$65000,Jay Franklin (minors),RHP,-0.2,3,1,0,.000,.000,3,0,1,6.35,1.59,0,HS,James Madison HS (Vienna VA),frankja02
+1971,1,,5,FrRnd,5,Royals,Y,$50000,Roy Branch (minors),RHP,-0.3,0,0,0,,,2,0,1,7.94,1.68,0,HS,Beaumont HS (St. Louis MO),brancro01
+1971,1,,6,FrRnd,6,Phillies,Y,$65000,Roy Thomas (minors),RHP,3.6,70,34,0,.118,.290,182,20,11,3.82,1.39,7,HS,Lompoc HS (Lompoc CA),thomaro02
+1971,1,,7,FrRnd,7,Senators,Y,$50000,Bo Quiroga (minors),RHP,,,,,,,,,,,,,HS,Ball HS (Galveston TX),-9999
+1971,1,,9,FrRnd,9,Indians,Y,$40000,David Sloan (minors),RHP,,,,,,,,,,,,,HS,Santa Clara HS (Santa Clara CA),-9999
+1971,1,,13,FrRnd,13,Angels,Y,$50000,Frank Tanana (minors),LHP,57.1,35,59,0,.153,.384,638,240,236,3.66,1.27,1,HS,Detroit Catholic Central HS (Novi MI),tananfr01
+1971,1,,16,FrRnd,16,Cubs,Y,$44000,Jeff Wehmeier (minors),RHP,,,,,,,,,,,,,HS,Brebeuf Jesuit Preparatory School (Indianapolis IN),-9999
+1971,1,,17,FrRnd,17,Athletics,Y,$25000,William Daniels (minors),RHP,,,,,,,,,,,,,HS,Mackenzie HS (Detroit MI),-9999
+1971,1,,18,FrRnd,18,Giants,Y,$29000,Frank Riccelli (minors),LHP,0.2,17,12,0,.250,.583,17,3,3,4.39,1.51,0,HS,Christian Brothers Academy (DeWitt NY),riccefr01
+1971,1,,20,FrRnd,20,Dodgers,Y,$45000,Rick Rhoden (minors),RHP,35.3,367,761,9,.238,.576,413,151,125,3.59,1.31,1,HS,Atlantic Community HS (Delray Beach FL),rhoderi01
+1971,1,,23,FrRnd,23,Orioles,Y,$20000,Randy Stein (minors),RHP,-2.3,6,0,0,,,65,5,6,5.72,1.74,1,HS,Ganesha HS (Pomona CA),steinra02
+1970,1,,5,FrRnd,5,Phillies,Y,$29000,Mike Martin (minors),LHP,,,,,,,,,,,,,HS,Olympia HS (Columbia SC),-9999
+1970,1,,7,FrRnd,7,Astros,N,,Randy Scarbery (minors),RHP,0.7,0,0,0,,,60,3,10,4.5,1.28,6,HS,Theodore Roosevelt HS (Fresno CA),scarbra02
+1970,1,,9,FrRnd,9,Dodgers,Y,$42000,Jim Haller (minors),RHP,,,,,,,,,,,,,HS,Creighton Preparatory School (Omaha NE),-9999
+1970,1,,11,FrRnd,11,Cardinals,Y,$25000,Jim Browning (minors),RHP,,,,,,,,,,,,,HS,Emma Sansom HS (Gadsden AL),-9999
+1970,1,,12,FrRnd,12,Yankees,Y,$57000,Dave Cheadle (minors),LHP,-0.3,2,0,0,,,2,0,1,18,2.50,0,HS,Asheville HS (Asheville NC),cheadda01
+1970,1,,13,FrRnd,13,Pirates,Y,$38000,John Bedard (minors),RHP,,,,,,,,,,,,,HS,Springfield HS of Science and Technology (Springfield MA),-9999
+1970,1,,17,FrRnd,17,Giants,Y,$27500,John D'Acquisto (minors),RHP,-1.0,250,181,1,.127,.384,266,34,51,4.56,1.61,15,HS,St. Augustine HS (San Diego CA),d'acqjo01
+1970,1,,21,FrRnd,21,Braves,Y,$15000,Ron Broaddus (minors),RHP,,,,,,,,,,,,,HS,Brazosport HS (Freeport TX),-9999
+1969,1,,2,FrRnd,2,Astros,Y,$39000,J.R. Richard (minors),RHP,22.2,239,552,10,.168,.428,238,107,71,3.15,1.24,0,HS,Lincoln HS (Ruston LA),richaj.01
+1969,1,,4,FrRnd,4,Mets,Y,$52000,Randy Sterling (minors),RHP,-0.2,3,2,0,.000,.333,3,1,1,4.82,1.71,0,HS,Key West HS (Key West FL),sterlra01
+1969,1,,9,FrRnd,9,Athletics,Y,$33000,Don Stanhouse (minors),RHP,5.7,134,135,1,.185,.469,294,38,54,3.84,1.53,64,HS,Du Quoin HS (Du Quoin IL),stanhdo01
+1969,1,,10,FrRnd,10,Pirates,Unk,,Robert May (minors),RHP,,,,,,,,,,,,,HS,Merritt Island HS (Merritt Island FL),-9999
+1969,1,,14,FrRnd,14,Reds,Y,$25000,Don Gullett (minors),LHP,18.2,254,382,0,.194,.457,266,109,50,3.11,1.23,11,HS,McKell HS (South Shore KY),gulledo01
+1969,1,,17,FrRnd,17,Orioles,Y,$17500,Don Hood (minors),LHP,5.3,48,20,0,.200,.400,297,34,35,3.79,1.42,6,HS,Southside HS (Florence SC),hooddo01
+1969,1,,20,FrRnd,20,Cardinals,Y,$38000,Charles Minott (minors),LHP,,,,,,,,,,,,,HS,Royal Oak HS (Covina CA),-9999
+1969,1,,22,FrRnd,22,Expos,Y,$24800,Balor Moore (minors),LHP,-0.8,71,113,0,.106,.282,180,28,48,4.52,1.49,1,HS,Deer Park HS (Deer Park TX),mooreba02
+1968,1,,2,FrRnd,2,Athletics,N,,Pete Broberg (minors),RHP,-0.9,80,101,1,.089,.265,206,41,71,4.56,1.47,1,HS,Palm Beach HS (Palm Beach FL),brobepe01
+1968,1,,8,FrRnd,8,Senators,Y,$35000,Don Castle (minors),LHP,-0.1,4,13,0,.308,.742,,,,,,,HS,Coldwater HS (Coldwater MS),castldo01
+1968,1,,12,FrRnd,12,Angels,Y,$75000,Lloyd Allen (minors),RHP,-1.8,108,40,1,.200,.500,159,8,25,4.69,1.64,22,HS,Selma HS (Selma CA),allenll01
+1968,1,,13,FrRnd,13,Reds,Y,$20000,Timothy Grant (minors),RHP,,,,,,,,,,,,,HS,Riverview HS (Boykins VA),-9999
+1967,1,,3,FrRnd,3,Red Sox,Y,$54000,Mike Garman (minors),RHP,2.2,291,42,0,.119,.238,303,22,27,3.63,1.41,42,HS,Caldwell HS (Caldwell ID),garmami01
+1967,1,,4,FrRnd,4,Mets,Y,$55000,Jon Matlack (minors),LHP,39.4,204,441,0,.129,.366,361,125,126,3.18,1.23,3,HS,B. Reed Henderson HS (West Chester PA),matlajo01
+1967,1,,7,FrRnd,7,Athletics,Y,$15000,Brien Bickerton (minors),LHP,,,,,,,,,,,,,HS,Santana HS (Santee CA),-9999
+1967,1,,8,FrRnd,8,Reds,Y,$40000,Wayne Simpson (minors),RHP,-1.0,80,153,0,.078,.198,122,36,31,4.37,1.45,0,HS,Centennial HS (Compton CA),simpswa01
+1967,1,,14,FrRnd,14,Phillies,Y,$65000,Phil Meyer (minors),LHP,,,,,,,,,,,,,HS,Pius X HS (Downey CA),-9999
+1967,1,,15,FrRnd,15,Tigers,Y,$35000,Jim Foor (minors),LHP,-0.6,13,0,0,,,13,1,0,12,3.50,0,HS,McCluer HS (Florissant MO),foorji01
+1966,1,,3,FrRnd,3,Astros,Y,$35000,Wayne Twitchell (minors),RHP,2.3,278,260,0,.127,.310,282,48,65,3.98,1.43,2,HS,Woodrow Wilson HS (Portland OR),twitcwa01
+1966,1,,4,FrRnd,4,Red Sox,Y,$56000,Ken Brett (minors),LHP,16.3,255,347,10,.262,.698,349,83,85,3.93,1.34,11,HS,El Segundo HS (El Segundo CA),brettke01
+1966,1,,5,FrRnd,5,Cubs,Y,$35000,Dean Burk (minors),RHP,,,,,,,,,,,,,HS,Highland HS (Highland IL),-9999
+1966,1,,9,FrRnd,9,Phillies,Y,$35000,Michael Biko (minors),RHP,,,,,,,,,,,,,HS,W. W. Samuell HS (Dallas TX),-9999
+1966,1,,11,FrRnd,11,Braves,Y,$50000,Al Santorini (minors),RHP,0.2,127,137,1,.109,.278,127,17,38,4.29,1.47,3,HS,Union HS (Union NJ),santoal01
+1966,1,,12,FrRnd,12,Indians,N,,John Curtis (minors),LHP,7.9,348,359,0,.175,.419,438,89,97,3.96,1.44,11,HS,Smithtown HS (Nesconset NY),curtijo01
+1966,1,,13,FrRnd,13,Reds,Y,$40000,Gary Nolan (minors),RHP,25.9,247,529,1,.138,.371,250,110,70,3.08,1.15,0,HS,Oroville HS (Oroville CA),nolanga01
+1966,1,,17,FrRnd,17,Giants,Y,$25000,Bob Reynolds (minors),RHP,2.7,11,4,0,.000,.000,140,14,16,3.15,1.32,21,HS,Ingraham HS (Seattle WA),reynobo01
+1966,1,,19,FrRnd,19,Dodgers,Y,$50000,Larry Hutton (minors),RHP,,,,,,,,,,,,,HS,Greenfield HS (Greenfield IN),-9999
+1965,1,,2,FrRnd,2,Mets,Y,$50000,Les Rohr (minors),LHP,-0.3,6,6,0,.000,.143,6,2,3,3.7,1.81,0,HS,Billings West HS (Billings MT),rohrle01
+1965,1,,3,FrRnd,3,Senators,Y,$65000,Joe Coleman (minors),RHP,23.2,279,462,0,.106,.289,484,142,135,3.7,1.33,7,HS,Natick HS (Natick MA),colemjo05
+1965,1,,6,FrRnd,6,Cubs,Y,$40000,Rick James (minors),RHP,-0.5,3,1,0,.000,.000,3,0,1,13.5,2.36,0,HS,Coffee HS (Florence AL),jamesri01
+1965,1,,15,FrRnd,15,Orioles,Y,$30000,Scott McDonald (minors),RHP,,,,,,,,,,,,,HS,Marquette HS (Yakima WA),-9999
+1965,1,,18,FrRnd,18,Phillies,N,,Mike Adamson (minors),RHP,-0.9,11,6,0,.333,1.000,11,0,4,7.46,1.97,0,HS,Point Loma HS (San Diego CA),adamsmi01
+1965,1,,19,FrRnd,19,Yankees,Y,$35000,Bill Burbach (minors),RHP,-1.1,37,47,0,.085,.246,37,6,11,4.48,1.60,0,HS,Wahlert Catholic HS (Dubuque IA),burbabi01
