@@ -42,7 +42,8 @@ def query_db(sql_statement: str, db_filepath: str) -> Optional[list]:
 
     connection.close()
 
-    if results is not None:
+    if results is not None and len(results) > 0:
+        print(f"Query returned {len(results)} results.")
         return results
 
 def execute_sql_script(sql_script_filepath: str, db_filepath: str) -> Optional[list]:
@@ -58,7 +59,7 @@ def execute_sql_script(sql_script_filepath: str, db_filepath: str) -> Optional[l
 
     connection.close()
     
-    if results is not None:
+    if results is not None and len(results) > 0:
         return results
 
 def print_tables(db_filepath: str) -> None:
