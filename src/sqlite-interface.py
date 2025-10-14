@@ -71,13 +71,5 @@ def print_tables(db_filepath: str) -> None:
 
 def delete_table(db_filepath: str, table_name: str) -> None:
     DELETE_STATEMENT = f"DROP TABLE IF EXISTS {table_name};"
-    _ = query_db(DELETE_STATEMENT, db_filepath)
+    query_db(DELETE_STATEMENT, db_filepath)
     print(f"Table '{table_name}' deleted successfully if it existed.")
-
-if __name__ == "__main__":
-    DB_FILEPATH = "data/sqlite/draft.db"
-    CSV_FILEPATH = "data/raw/round-1-hs-pitchers-drafted.csv"
-    TABLE_NAME = "hs_pitchers_drafted_round_1"
-
-    load_csv_to_table(CSV_FILEPATH, DB_FILEPATH, TABLE_NAME)
-    print_tables(DB_FILEPATH)
