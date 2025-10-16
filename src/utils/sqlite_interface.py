@@ -32,11 +32,12 @@ def create_csv_table(csv_filepath: str, db_filepath: str, table_name: str, overw
     
     connection.close()
 
-def load_df_to_table(df: pd.DataFrame, db_filepath: str, table_name:str) -> None:
+def load_pandas_to_table(data: pd.DataFrame | pd.Series, db_filepath: str, table_name:str) -> None:
     connection = sqlite3.connect(db_filepath)
     print(f"Connected to SQLite database at '{db_filepath}'.")
 
-    nrows = df.to_sql(table_name, connection, if_exists='append', index=False)
+    save_index = isinstance(data, pd.Series)
+    nrows = data.to_sql(table_name, connection, if_exists='append', index=save_index)
     print(f"Added {nrows} to '{table_name}'.")
 
     connection.close()
@@ -71,14 +72,14 @@ def execute_sql_script(sql_script_filepath: str, db_filepath: str) -> Optional[l
         return results
 
 def print_tables(db_filepath: str) -> None:
-    SQL_QUERY = "SELECT name FROM sqlite_schema WHERE type='table';"
-    tables = query_db(SQL_QUERY, db_filepath)
+    sql_query = "SELECT name FROM sqlite_schema WHERE type='table';"
+    tables = query_db(sql_query, db_filepath)
 
     print("Tables found:")
     for table in tables:
         print(table[0])
 
 def delete_table(db_filepath: str, table_name: str) -> None:
-    DELETE_STATEMENT = f"DROP TABLE IF EXISTS {table_name};"
-    query_db(DELETE_STATEMENT, db_filepath)
+    delete_statement = f"DROP TABLE IF EXISTS {table_name};"
+    query_db(delete_statement, db_filepath)
     print(f"Table '{table_name}' deleted successfully if it existed.")
