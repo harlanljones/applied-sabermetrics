@@ -16,7 +16,7 @@ How numbers and innovative minds revitalized franchises
 
 [src/utils/sqlite_interface.py](src/utils/sqlite_interface.py) utilizes Python's built-in sqlite3 library to programmatically interface with local .db files without additional dependencies. Not necessarily functional, but more so to replicate a production environment that discourages destructive actions while maintaining simplicity.
 
-[src/draft.ipynb](src/draft.ipynb) is used for draft data processing and exploration. Will be refactored to a .py file in the future.
+[src/round_1_hs_pitchers.ipynb](src/round_1_hs_pitchers.ipynb) is used for to explore highschool pitchers drafted in the first round of the June Amateur Draft. Will be refactored to a .py file in the future.
 
 ## Data
 
