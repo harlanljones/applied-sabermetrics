@@ -2,7 +2,7 @@ import sqlite3
 import pandas as pd
 from typing import Optional
 
-def load_csv_to_table(csv_filepath: str, db_filepath: str, table_name: str, overwrite: Optional[bool] = False) -> None:
+def create_csv_table(csv_filepath: str, db_filepath: str, table_name: str, overwrite: Optional[bool] = False) -> None:
     try:
         df = pd.read_csv(csv_filepath)
         print(f"CSV file '{csv_filepath}' located successfully.")
@@ -23,14 +23,22 @@ def load_csv_to_table(csv_filepath: str, db_filepath: str, table_name: str, over
         except ValueError:
             print(f"'{table_name}' table already exists. Data loading failed.")
     
-    SQL_QUERY = f"SELECT * FROM {table_name} LIMIT 5;"
     cursor = connection.cursor()
-    results = cursor.execute(SQL_QUERY).fetchall()
+    results = cursor.execute(f"SELECT * FROM {table_name} LIMIT 5;").fetchall()
 
     print(f"First 5 rows of '{table_name}':")
     for row in results:
         print(row)
     
+    connection.close()
+
+def load_df_to_table(df: pd.DataFrame, db_filepath: str, table_name:str) -> None:
+    connection = sqlite3.connect(db_filepath)
+    print(f"Connected to SQLite database at '{db_filepath}'.")
+
+    nrows = df.to_sql(table_name, connection, if_exists='append', index=False)
+    print(f"Added {nrows} to '{table_name}'.")
+
     connection.close()
 
 def query_db(sql_statement: str, db_filepath: str) -> Optional[list]:
